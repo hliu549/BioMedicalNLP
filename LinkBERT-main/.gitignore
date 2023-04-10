@@ -5,4 +5,5 @@ data
 data*
 
 src/wandb
-.DS_Store
+**/.DS_Store
+**/pytorch_model.bin
