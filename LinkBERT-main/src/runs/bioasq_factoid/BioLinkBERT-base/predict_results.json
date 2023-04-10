@@ -1,0 +1,6 @@
+{
+    "epoch": 30.0,
+    "predict_samples": 673,
+    "test_exact_match": 70.13372956909362,
+    "test_f1": 84.08218401465233
+}
