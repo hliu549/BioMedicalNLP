@@ -19,7 +19,7 @@ for i in test_outputs:
         else:
             pred[ans] += j['probability']
     sorted_d = sorted(pred.items(), key=lambda x: x[1], reverse=True)
-    top_5_keys = [key for key, value in sorted_d[:5]]
+    top_5_keys = [[key] for key, value in sorted_d[:5]]
     
     y_pred[i.split("_")[0]] = top_5_keys
 
