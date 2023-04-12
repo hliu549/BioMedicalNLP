@@ -11,40 +11,45 @@ import json
 def load_labels(test_output_path, test_path):
 
     # load y_true
-    y_true = []
+    y_true = {}
     with open(test_path, "r") as f:
         for line in f:
             d = json.loads(line)
-            y_true.append(d["answers"]["text"][0].lower().strip())
+            y_true[d["id"].split("_")[0]] = d["answers"]["text"][0].lower().strip()
 
     # load y_pred, list of lists
     with open(test_output_path, 'r') as f:
         test_outputs = json.load(f)
 
-    y_pred = []
+    y_pred = {}
     for i in test_outputs:
         preds = test_outputs[i]
-        pred = []
-        for j in range(len(preds)):
-            if j == 5:
-                break
-            pred.append(preds[j]['text'].lower().strip())
-        y_pred.append(pred)
+        pred = {}
+        for j in preds:
+            ans = j['text'].lower().strip()
+            if ans not in pred:
+                pred[ans] = 0
+            else:
+                pred[ans] += j['probability']
+        sorted_d = sorted(pred.items(), key=lambda x: x[1], reverse=True)
+        top_5_keys = [key for key, value in sorted_d[:5]]
+        
+        y_pred[i.split("_")[0]] = top_5_keys
 
     return y_true, y_pred
 
 def exact_acc(y_true, y_pred):
     correct = 0
-    for i in range(len(y_pred)):
-        if y_pred[i][0] == y_true[i]:
+    for i in y_true:
+        if y_true[i] == y_pred[i][0]:
             correct += 1
 
-    accuracy = correct / len(y_pred)
+    accuracy = correct / len(y_true)
     return accuracy
 
 def lenient_acc(y_true, y_pred):
     correct = 0
-    for i in range(len(y_pred)):
+    for i in y_true:
         if y_true[i] in y_pred[i]:
             correct += 1
 
@@ -53,7 +58,7 @@ def lenient_acc(y_true, y_pred):
 
 def MRR(y_true, y_pred):
     reciprocal_ranks = []
-    for i in range(len(y_pred)):
+    for i in y_true:
         if y_true[i] in y_pred[i]:
             rank = y_pred[i].index(y_true[i]) + 1
             reciprocal_ranks.append(1.0 / rank)
