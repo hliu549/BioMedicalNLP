@@ -1,8 +1,6 @@
 *.pyc
 
 raw_data
-data
-data*
 
 src/wandb
 **/.DS_Store
