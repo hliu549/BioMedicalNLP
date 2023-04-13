@@ -1,0 +1,160 @@
+Using the `WAND_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+04/13/2023 19:07:47 - WARNING - __main__ - Process rank: -1, device: cuda:0, n_gpu: 1distributed training: False, 16-bits training: True
+04/13/2023 19:07:47 - INFO - __main__ - Training/evaluation parameters TrainingArguments(
+_n_gpu=1,
+adafactor=False,
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+dataloader_drop_last=False,
+dataloader_num_workers=0,
+dataloader_pin_memory=True,
+ddp_find_unused_parameters=None,
+debug=[],
+deepspeed=None,
+disable_tqdm=False,
+do_eval=False,
+do_predict=True,
+do_train=False,
+eval_accumulation_steps=None,
+eval_steps=None,
+evaluation_strategy=IntervalStrategy.NO,
+fp16=True,
+fp16_backend=auto,
+fp16_full_eval=False,
+fp16_opt_level=O1,
+gradient_accumulation_steps=4,
+greater_is_better=None,
+group_by_length=False,
+ignore_data_skip=False,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=3e-05,
+length_column_name=length,
+load_best_model_at_end=False,
+local_rank=-1,
+log_level=-1,
+log_level_replica=-1,
+log_on_each_node=True,
+logging_dir=../Batch_outputs/bioasq_batch2_yn/FT20_yesno_large/runs/Apr13_19-07-45_linkbert-1,
+logging_first_step=False,
+logging_steps=500,
+logging_strategy=IntervalStrategy.STEPS,
+lr_scheduler_type=SchedulerType.LINEAR,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mp_parameters=,
+no_cuda=False,
+num_train_epochs=3.0,
+output_dir=../Batch_outputs/bioasq_batch2_yn/FT20_yesno_large,
+overwrite_output_dir=True,
+past_index=-1,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=8,
+prediction_loss_only=False,
+push_to_hub=False,
+push_to_hub_model_id=FT20_yesno_large,
+push_to_hub_organization=None,
+push_to_hub_token=None,
+remove_unused_columns=True,
+report_to=[],
+resume_from_checkpoint=None,
+run_name=../Batch_outputs/bioasq_batch2_yn/FT20_yesno_large,
+save_on_each_node=False,
+save_steps=500,
+save_strategy=IntervalStrategy.NO,
+save_total_limit=None,
+seed=42,
+sharded_ddp=[],
+skip_memory_metrics=True,
+tpu_metrics_debug=False,
+tpu_num_cores=None,
+use_legacy_prediction_loop=False,
+warmup_ratio=0.5,
+warmup_steps=0,
+weight_decay=0.0,
+)
+04/13/2023 19:07:47 - INFO - __main__ - load a local file for train: ../data/transformed_data/yesno/train.json
+04/13/2023 19:07:47 - INFO - __main__ - load a local file for validation: ../data/transformed_data/yesno/dev.json
+04/13/2023 19:07:47 - INFO - __main__ - load a local file for test: ../data/transformed_data/Batch2/yesno/test_with_label.json
+04/13/2023 19:07:47 - WARNING - datasets.builder - Using custom data configuration default-1bae524df1cc16be
+04/13/2023 19:07:47 - INFO - datasets.builder - Overwrite dataset info from restored data version.
+04/13/2023 19:07:47 - INFO - datasets.info - Loading Dataset info from /root/.cache/huggingface/datasets/json/default-1bae524df1cc16be/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264
+04/13/2023 19:07:47 - WARNING - datasets.builder - Reusing dataset json (/root/.cache/huggingface/datasets/json/default-1bae524df1cc16be/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264)
+04/13/2023 19:07:47 - INFO - datasets.info - Loading Dataset info from /root/.cache/huggingface/datasets/json/default-1bae524df1cc16be/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 131.88it/s]
+
+label_list ['no', 'yes']
+[INFO|configuration_utils.py:543] 2023-04-13 19:07:47,422 >> loading configuration file ./runs/bioasq_yn_512/BioLinkBERT-large/config.json
+[INFO|configuration_utils.py:581] 2023-04-13 19:07:47,423 >> Model config BertConfig {
+  "_name_or_path": "../models/BioLinkBERT-large",
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 1024,
+  "id2label": {
+    "0": "no",
+    "1": "yes"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "label2id": {
+    "no": 0,
+    "yes": 1
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "torch_dtype": "float32",
+  "transformers_version": "4.9.1",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 28895
+}
+
+[INFO|tokenization_utils_base.py:1664] 2023-04-13 19:07:47,425 >> Didn't find file ./runs/bioasq_yn_512/BioLinkBERT-large/added_tokens.json. We won't load it.
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 19:07:47,425 >> loading file ./runs/bioasq_yn_512/BioLinkBERT-large/vocab.txt
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 19:07:47,425 >> loading file ./runs/bioasq_yn_512/BioLinkBERT-large/tokenizer.json
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 19:07:47,426 >> loading file None
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 19:07:47,426 >> loading file ./runs/bioasq_yn_512/BioLinkBERT-large/special_tokens_map.json
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 19:07:47,427 >> loading file ./runs/bioasq_yn_512/BioLinkBERT-large/tokenizer_config.json
+[INFO|modeling_utils.py:1269] 2023-04-13 19:07:47,454 >> loading weights file ./runs/bioasq_yn_512/BioLinkBERT-large/pytorch_model.bin
+[INFO|modeling_utils.py:1510] 2023-04-13 19:07:57,122 >> All model checkpoint weights were used when initializing BertForSequenceClassification.
+
+[INFO|modeling_utils.py:1518] 2023-04-13 19:07:57,122 >> All the weights of BertForSequenceClassification were initialized from the model checkpoint at ./runs/bioasq_yn_512/BioLinkBERT-large.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use BertForSequenceClassification for predictions without further training.
+04/13/2023 19:07:57 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.preprocess_function at 0x7fbc88dacf70> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+04/13/2023 19:07:57 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /root/.cache/huggingface/datasets/json/default-1bae524df1cc16be/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264/cache-1c80317fa3b1799d.arrow
+04/13/2023 19:07:57 - INFO - datasets.fingerprint - Parameter 'function'=<function main.<locals>.preprocess_function at 0x7fbc88dacf70> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead.
+04/13/2023 19:07:57 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /root/.cache/huggingface/datasets/json/default-1bae524df1cc16be/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264/cache-bdd640fb06671ad1.arrow
+04/13/2023 19:07:57 - INFO - datasets.fingerprint - Parameter 'function'=<function main.<locals>.preprocess_function at 0x7fbc88dacf70> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead.
+04/13/2023 19:07:57 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /root/.cache/huggingface/datasets/json/default-1bae524df1cc16be/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264/cache-3eb13b9046685257.arrow
+[INFO|trainer.py:421] 2023-04-13 19:08:08,956 >> Using amp fp16 backend
+04/13/2023 19:08:08 - INFO - __main__ - *** Predict ***
+[Dataset({
+    features: ['attention_mask', 'id', 'input_ids', 'label', 'sentence1', 'sentence2', 'token_type_ids'],
+    num_rows: 24
+})]
+[INFO|trainer.py:521] 2023-04-13 19:08:08,969 >> The following columns in the test set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, sentence2, sentence1.
+[INFO|trainer.py:2165] 2023-04-13 19:08:09,036 >> ***** Running Prediction *****
+[INFO|trainer.py:2167] 2023-04-13 19:08:09,037 >>   Num examples = 24
+[INFO|trainer.py:2170] 2023-04-13 19:08:09,037 >>   Batch size = 8
+  0%|          | 0/3 [00:00<?, ?it/s] 67%|██████▋   | 2/3 [00:00<00:00,  2.63it/s]100%|██████████| 3/3 [00:01<00:00,  1.84it/s]04/13/2023 19:08:12 - INFO - datasets.load - Found main folder for metric https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/accuracy/accuracy.py at /root/.cache/huggingface/modules/datasets_modules/metrics/accuracy
+04/13/2023 19:08:12 - INFO - datasets.load - Found specific version folder for metric https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/accuracy/accuracy.py at /root/.cache/huggingface/modules/datasets_modules/metrics/accuracy/6dba4616f6b2bbd19659d1db3a48cc001c8f13a10cdc73a2641a55f7a60b7b5b
+04/13/2023 19:08:12 - INFO - datasets.load - Found script file from https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/accuracy/accuracy.py to /root/.cache/huggingface/modules/datasets_modules/metrics/accuracy/6dba4616f6b2bbd19659d1db3a48cc001c8f13a10cdc73a2641a55f7a60b7b5b/accuracy.py
+04/13/2023 19:08:12 - INFO - datasets.load - Couldn't find dataset infos file at https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/accuracy/dataset_infos.json
+04/13/2023 19:08:12 - INFO - datasets.load - Found metadata file for metric https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/accuracy/accuracy.py at /root/.cache/huggingface/modules/datasets_modules/metrics/accuracy/6dba4616f6b2bbd19659d1db3a48cc001c8f13a10cdc73a2641a55f7a60b7b5b/accuracy.json
+***** test metrics *****
+  test_accuracy = 0.5833
+  test_samples  =     24
+100%|██████████| 3/3 [00:02<00:00,  1.39it/s]
