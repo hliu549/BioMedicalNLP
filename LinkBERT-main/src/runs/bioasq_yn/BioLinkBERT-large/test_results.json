@@ -1,0 +1,5 @@
+{
+    "epoch": 19.99,
+    "test_accuracy": 0.9375,
+    "test_samples": 128
+}

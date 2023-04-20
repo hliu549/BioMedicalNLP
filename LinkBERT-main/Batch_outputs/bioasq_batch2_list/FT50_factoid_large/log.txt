@@ -1,0 +1,292 @@
+Using the `WAND_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+04/13/2023 16:18:53 - WARNING - __main__ - Process rank: -1, device: cuda:0, n_gpu: 1distributed training: False, 16-bits training: True
+04/13/2023 16:18:53 - INFO - __main__ - Training/evaluation parameters TrainingArguments(
+_n_gpu=1,
+adafactor=False,
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+dataloader_drop_last=False,
+dataloader_num_workers=0,
+dataloader_pin_memory=True,
+ddp_find_unused_parameters=None,
+debug=[],
+deepspeed=None,
+disable_tqdm=False,
+do_eval=False,
+do_predict=True,
+do_train=False,
+eval_accumulation_steps=None,
+eval_steps=None,
+evaluation_strategy=IntervalStrategy.NO,
+fp16=True,
+fp16_backend=auto,
+fp16_full_eval=False,
+fp16_opt_level=O1,
+gradient_accumulation_steps=2,
+greater_is_better=None,
+group_by_length=False,
+ignore_data_skip=False,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=3e-05,
+length_column_name=length,
+load_best_model_at_end=False,
+local_rank=-1,
+log_level=-1,
+log_level_replica=-1,
+log_on_each_node=True,
+logging_dir=../Batch_outputs/bioasq_batch2_list/FT50_factoid_large/runs/Apr13_16-18-51_linkbert-1,
+logging_first_step=False,
+logging_steps=500,
+logging_strategy=IntervalStrategy.STEPS,
+lr_scheduler_type=SchedulerType.LINEAR,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mp_parameters=,
+no_cuda=False,
+num_train_epochs=50.0,
+output_dir=../Batch_outputs/bioasq_batch2_list/FT50_factoid_large,
+overwrite_output_dir=True,
+past_index=-1,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=8,
+prediction_loss_only=False,
+push_to_hub=False,
+push_to_hub_model_id=FT50_factoid_large,
+push_to_hub_organization=None,
+push_to_hub_token=None,
+remove_unused_columns=True,
+report_to=[],
+resume_from_checkpoint=None,
+run_name=../Batch_outputs/bioasq_batch2_list/FT50_factoid_large,
+save_on_each_node=False,
+save_steps=500,
+save_strategy=IntervalStrategy.NO,
+save_total_limit=None,
+seed=42,
+sharded_ddp=[],
+skip_memory_metrics=True,
+tpu_metrics_debug=False,
+tpu_num_cores=None,
+use_legacy_prediction_loop=False,
+warmup_ratio=0.0,
+warmup_steps=0,
+weight_decay=0.0,
+)
+04/13/2023 16:18:53 - WARNING - datasets.builder - Using custom data configuration default-551993ca7f85bff9
+04/13/2023 16:18:53 - INFO - datasets.builder - Generating dataset json (/root/.cache/huggingface/datasets/json/default-551993ca7f85bff9/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264)
+Downloading and preparing dataset json/default (download: Unknown size, generated: Unknown size, post-processed: Unknown size, total: Unknown size) to /root/.cache/huggingface/datasets/json/default-551993ca7f85bff9/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 1572.67it/s]
+04/13/2023 16:18:53 - INFO - datasets.utils.download_manager - Downloading took 0.0 min
+04/13/2023 16:18:53 - INFO - datasets.utils.download_manager - Checksum Computation took 0.0 min
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 867.49it/s]
+04/13/2023 16:18:53 - INFO - datasets.utils.info_utils - Unable to verify checksums.
+04/13/2023 16:18:53 - INFO - datasets.builder - Generating split test
+0 tables [00:00, ? tables/s]                            04/13/2023 16:18:53 - INFO - datasets.utils.info_utils - Unable to verify splits sizes.
+Dataset json downloaded and prepared to /root/.cache/huggingface/datasets/json/default-551993ca7f85bff9/0.0.0/45636811569ec4a6630521c18235dfbbab83b7ab572e3393c5ba68ccabe98264. Subsequent calls will reuse this data.
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 84.50it/s]
+[INFO|configuration_utils.py:543] 2023-04-13 16:18:53,340 >> loading configuration file ../experiments/bioasq_factoid_50/BioLinkBERT-large/config.json
+[INFO|configuration_utils.py:581] 2023-04-13 16:18:53,340 >> Model config BertConfig {
+  "_name_or_path": "../models/BioLinkBERT-large",
+  "architectures": [
+    "BertForQuestionAnswering"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "torch_dtype": "float32",
+  "transformers_version": "4.9.1",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 28895
+}
+
+[INFO|tokenization_utils_base.py:1664] 2023-04-13 16:18:53,341 >> Didn't find file ../experiments/bioasq_factoid_50/BioLinkBERT-large/added_tokens.json. We won't load it.
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 16:18:53,342 >> loading file ../experiments/bioasq_factoid_50/BioLinkBERT-large/vocab.txt
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 16:18:53,342 >> loading file ../experiments/bioasq_factoid_50/BioLinkBERT-large/tokenizer.json
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 16:18:53,342 >> loading file None
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 16:18:53,343 >> loading file ../experiments/bioasq_factoid_50/BioLinkBERT-large/special_tokens_map.json
+[INFO|tokenization_utils_base.py:1728] 2023-04-13 16:18:53,343 >> loading file ../experiments/bioasq_factoid_50/BioLinkBERT-large/tokenizer_config.json
+[INFO|modeling_utils.py:1269] 2023-04-13 16:18:53,372 >> loading weights file ../experiments/bioasq_factoid_50/BioLinkBERT-large/pytorch_model.bin
+[INFO|modeling_utils.py:1510] 2023-04-13 16:19:05,865 >> All model checkpoint weights were used when initializing BertForQuestionAnswering.
+
+[INFO|modeling_utils.py:1518] 2023-04-13 16:19:05,865 >> All the weights of BertForQuestionAnswering were initialized from the model checkpoint at ../experiments/bioasq_factoid_50/BioLinkBERT-large.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use BertForQuestionAnswering for predictions without further training.
+04/13/2023 16:19:06 - INFO - datasets.arrow_dataset - Spawning 10 processes
+04/13/2023 16:19:06 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+Running tokenizer on prediction dataset #0:   0%|          | 0/1 [00:00<?, ?ba/s]04/13/2023 16:19:06 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+Running tokenizer on prediction dataset #1:   0%|          | 0/1 [00:00<?, ?ba/s][ARunning tokenizer on prediction dataset #0: 100%|██████████| 1/1 [00:00<00:00,  5.84ba/s]Running tokenizer on prediction dataset #0: 100%|██████████| 1/1 [00:00<00:00,  5.80ba/s]
+04/13/2023 16:19:06 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+
+Running tokenizer on prediction dataset #2:   0%|          | 0/1 [00:00<?, ?ba/s][A[A
+Running tokenizer on prediction dataset #1: 100%|██████████| 1/1 [00:00<00:00,  4.01ba/s][ARunning tokenizer on prediction dataset #1: 100%|██████████| 1/1 [00:00<00:00,  3.53ba/s]
+04/13/2023 16:19:07 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+
+
+Running tokenizer on prediction dataset #3:   0%|          | 0/1 [00:00<?, ?ba/s][A[A[A
+
+Running tokenizer on prediction dataset #2: 100%|██████████| 1/1 [00:00<00:00,  2.69ba/s][A[ARunning tokenizer on prediction dataset #2: 100%|██████████| 1/1 [00:00<00:00,  2.68ba/s]
+04/13/2023 16:19:07 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+
+
+
+Running tokenizer on prediction dataset #4:   0%|          | 0/1 [00:00<?, ?ba/s][A[A[A[A
+
+
+Running tokenizer on prediction dataset #3: 100%|██████████| 1/1 [00:00<00:00,  5.56ba/s][A[A[ARunning tokenizer on prediction dataset #3: 100%|██████████| 1/1 [00:00<00:00,  5.45ba/s]
+04/13/2023 16:19:07 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+
+
+
+
+Running tokenizer on prediction dataset #5:   0%|          | 0/1 [00:00<?, ?ba/s][A[A[A[A[A
+
+
+
+Running tokenizer on prediction dataset #4: 100%|██████████| 1/1 [00:00<00:00,  3.87ba/s][A[A[A[ARunning tokenizer on prediction dataset #4: 100%|██████████| 1/1 [00:00<00:00,  3.86ba/s]
+
+
+
+
+
+04/13/2023 16:19:07 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+Running tokenizer on prediction dataset #5: 100%|██████████| 1/1 [00:00<00:00,  6.14ba/s][A[A[A[A[ARunning tokenizer on prediction dataset #5: 100%|██████████| 1/1 [00:00<00:00,  5.52ba/s]
+
+
+
+
+
+
+Running tokenizer on prediction dataset #6:   0%|          | 0/1 [00:00<?, ?ba/s][A[A[A[A[A[A04/13/2023 16:19:07 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+
+
+
+
+
+
+Running tokenizer on prediction dataset #7:   0%|          | 0/1 [00:00<?, ?ba/s][A[A[A[A[A[A[A
+
+
+
+
+
+Running tokenizer on prediction dataset #6: 100%|██████████| 1/1 [00:00<00:00,  5.09ba/s][A[A[A[A[A[ARunning tokenizer on prediction dataset #6: 100%|██████████| 1/1 [00:00<00:00,  5.08ba/s]
+04/13/2023 16:19:08 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+
+
+
+
+
+
+Running tokenizer on prediction dataset #7: 100%|██████████| 1/1 [00:00<00:00,  8.10ba/s][A[A[A[A[A[A[ARunning tokenizer on prediction dataset #7: 100%|██████████| 1/1 [00:00<00:00,  7.44ba/s]
+
+
+
+
+
+
+
+
+Running tokenizer on prediction dataset #8:   0%|          | 0/1 [00:00<?, ?ba/s][A[A[A[A[A[A[A[A04/13/2023 16:19:08 - WARNING - datasets.fingerprint - Parameter 'function'=<function main.<locals>.prepare_validation_features at 0x7f9f0882e9d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+
+
+
+
+
+
+
+
+
+Running tokenizer on prediction dataset #9:   0%|          | 0/1 [00:00<?, ?ba/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Running tokenizer on prediction dataset #8: 100%|██████████| 1/1 [00:00<00:00,  8.24ba/s][A[A[A[A[A[A[A[ARunning tokenizer on prediction dataset #8: 100%|██████████| 1/1 [00:00<00:00,  8.22ba/s]
+
+
+
+
+
+
+
+
+
+Running tokenizer on prediction dataset #9: 100%|██████████| 1/1 [00:00<00:00,  7.94ba/s][A[A[A[A[A[A[A[A[ARunning tokenizer on prediction dataset #9: 100%|██████████| 1/1 [00:00<00:00,  7.92ba/s]
+04/13/2023 16:19:08 - INFO - datasets.arrow_dataset - Concatenating 10 shards from multiprocessing
+04/13/2023 16:19:08 - WARNING - datasets.fingerprint - Transform <function concatenate_datasets at 0x7f9fe52ba0d0> couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+04/13/2023 16:19:09 - INFO - datasets.load - Found main folder for metric https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/squad/squad.py at /root/.cache/huggingface/modules/datasets_modules/metrics/squad
+04/13/2023 16:19:09 - INFO - datasets.load - Found specific version folder for metric https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/squad/squad.py at /root/.cache/huggingface/modules/datasets_modules/metrics/squad/513bf9facd7f12b0871a3d74c6999c866ce28196c9cdb151dcf934848655d77e
+04/13/2023 16:19:09 - INFO - datasets.load - Found script file from https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/squad/squad.py to /root/.cache/huggingface/modules/datasets_modules/metrics/squad/513bf9facd7f12b0871a3d74c6999c866ce28196c9cdb151dcf934848655d77e/squad.py
+04/13/2023 16:19:09 - INFO - datasets.load - Couldn't find dataset infos file at https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/squad/dataset_infos.json
+04/13/2023 16:19:09 - INFO - datasets.load - Found metadata file for metric https://raw.githubusercontent.com/huggingface/datasets/1.11.0/metrics/squad/squad.py at /root/.cache/huggingface/modules/datasets_modules/metrics/squad/513bf9facd7f12b0871a3d74c6999c866ce28196c9cdb151dcf934848655d77e/squad.json
+04/13/2023 16:19:09 - INFO - datasets.load - Found local import file from /root/.cache/huggingface/datasets/downloads/188f3c7a325773b47d41f3e0f7ab9fd3cb20e597010b3a9d780c878dacc10ce3.6f69c3ff9e10aa1cbdc6e91d27e158ea86a785f54a36a9e964ef8b3b78cf3cd6.py at /root/.cache/huggingface/modules/datasets_modules/metrics/squad/513bf9facd7f12b0871a3d74c6999c866ce28196c9cdb151dcf934848655d77e/evaluate.py
+[INFO|trainer.py:421] 2023-04-13 16:19:19,456 >> Using amp fp16 backend
+04/13/2023 16:19:19 - INFO - __main__ - *** Predict ***
+[INFO|trainer.py:521] 2023-04-13 16:19:19,457 >> The following columns in the test set  don't have a corresponding argument in `BertForQuestionAnswering.forward` and have been ignored: example_id, offset_mapping.
+[INFO|trainer.py:2165] 2023-04-13 16:19:19,525 >> ***** Running Prediction *****
+[INFO|trainer.py:2167] 2023-04-13 16:19:19,525 >>   Num examples = 109
+[INFO|trainer.py:2170] 2023-04-13 16:19:19,526 >>   Batch size = 8
+  0%|          | 0/14 [00:00<?, ?it/s] 14%|█▍        | 2/14 [00:00<00:01,  9.44it/s] 21%|██▏       | 3/14 [00:00<00:01,  6.14it/s] 29%|██▊       | 4/14 [00:00<00:01,  5.60it/s] 36%|███▌      | 5/14 [00:00<00:01,  5.32it/s] 43%|████▎     | 6/14 [00:01<00:01,  5.13it/s] 50%|█████     | 7/14 [00:01<00:01,  4.62it/s] 57%|█████▋    | 8/14 [00:01<00:01,  4.71it/s] 64%|██████▍   | 9/14 [00:01<00:01,  4.72it/s] 71%|███████▏  | 10/14 [00:02<00:00,  4.45it/s] 79%|███████▊  | 11/14 [00:02<00:00,  4.54it/s] 86%|████████▌ | 12/14 [00:02<00:00,  4.65it/s] 93%|█████████▎| 13/14 [00:02<00:00,  4.39it/s]100%|██████████| 14/14 [00:02<00:00,  5.05it/s]04/13/2023 16:19:22 - INFO - utils_qa - Post-processing 109 example predictions split into 109 features.
+
+  0%|          | 0/109 [00:00<?, ?it/s][A
+ 13%|█▎        | 14/109 [00:00<00:00, 134.92it/s][A
+ 28%|██▊       | 31/109 [00:00<00:00, 152.18it/s][A
+ 43%|████▎     | 47/109 [00:00<00:00, 112.85it/s][A
+ 59%|█████▊    | 64/109 [00:00<00:00, 130.38it/s][A
+ 76%|███████▌  | 83/109 [00:00<00:00, 147.92it/s][A
+ 94%|█████████▎| 102/109 [00:00<00:00, 159.81it/s][A100%|██████████| 109/109 [00:00<00:00, 147.97it/s]
+04/13/2023 16:19:23 - INFO - utils_qa - Saving predictions to ../Batch_outputs/bioasq_batch2_list/FT50_factoid_large/predict_predictions.json.
+04/13/2023 16:19:23 - INFO - utils_qa - Saving nbest_preds to ../Batch_outputs/bioasq_batch2_list/FT50_factoid_large/predict_nbest_predictions.json.
+Traceback (most recent call last):
+  File "qa/run_qa.py", line 663, in <module>
+    main()
+  File "qa/run_qa.py", line 629, in main
+    results = trainer.predict(predict_dataset, predict_examples)
+  File "/home/haiyingl/BioMedicalNLP/LinkBERT-main/src/qa/trainer_qa.py", line 98, in predict
+    metrics = self.compute_metrics(predictions)
+  File "qa/run_qa.py", line 576, in compute_metrics
+    return metric.compute(predictions=p.predictions, references=p.label_ids)
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/metric.py", line 390, in compute
+    self.add_batch(predictions=predictions, references=references)
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/metric.py", line 431, in add_batch
+    batch = self.info.features.encode_batch(batch)
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/features.py", line 1034, in encode_batch
+    encoded_batch[key] = [encode_nested_example(self[key], obj) for obj in column]
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/features.py", line 1034, in <listcomp>
+    encoded_batch[key] = [encode_nested_example(self[key], obj) for obj in column]
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/features.py", line 864, in encode_nested_example
+    return {
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/features.py", line 865, in <dictcomp>
+    k: encode_nested_example(sub_schema, sub_obj) for k, (sub_schema, sub_obj) in utils.zip_dict(schema, obj)
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/features.py", line 882, in encode_nested_example
+    for k, (sub_schema, sub_objs) in utils.zip_dict(schema.feature, obj):
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/utils/py_utils.py", line 99, in zip_dict
+    yield key, tuple(d[key] for d in dicts)
+  File "/opt/conda/envs/linkbert/lib/python3.8/site-packages/datasets/utils/py_utils.py", line 99, in <genexpr>
+    yield key, tuple(d[key] for d in dicts)
+KeyError: 'p'
+100%|██████████| 14/14 [00:04<00:00,  3.40it/s]

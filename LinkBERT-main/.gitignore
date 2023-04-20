@@ -1,0 +1,7 @@
+*.pyc
+
+raw_data
+
+src/wandb
+**/.DS_Store
+**/pytorch_model.bin
