@@ -1,0 +1,2174 @@
+{
+  "questions": [
+    {
+      "type": "factoid",
+      "id": "64403ab057b1c7a31500004d",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "two",
+          0.9983099484519387
+        ],
+        [
+          "two suprachoroidal injections of CLS-TA at 0 and 12 weeks",
+          0.0010148213373592908
+        ],
+        [
+          "two suprachoroidal injections",
+          0.00043641063522249795
+        ],
+        [
+          "two suprachoroidal injections of CLS-TA at 0 and 12 weeks with follow up lasting 24 weeks",
+          0.00014279678355037697
+        ],
+        [
+          "two suprachoroidal",
+          3.738675801822287e-05
+        ],
+        [
+          "two suprachoroidal injection",
+          1.8219938385672968e-05
+        ],
+        [
+          "two suprachoroidal injections of CLS-TA",
+          1.1698915747540991e-05
+        ],
+        [
+          "phase III trial with two",
+          2.320678235299981e-06
+        ],
+        [
+          "a phase III trial with two",
+          1.7596562155986902e-06
+        ],
+        [
+          "NCT02595398",
+          7.521136103690727e-08
+        ],
+        [
+          "suprachoroidal injections of CLS-TA at 0 and 12 weeks",
+          3.920725927190131e-08
+        ],
+        [
+          "ClinicalTrials.gov Identifier: NCT02595398",
+          1.832424177263385e-08
+        ],
+        [
+          "suprachoroidal injections",
+          1.6860568746718987e-08
+        ],
+        [
+          "NCT02595398)",
+          9.717227290739271e-09
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6411b678201352f04a000036",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "acquired",
+          1.7836506412546258
+        ],
+        [
+          "autosomal dominant",
+          0.954726947510335
+        ],
+        [
+          "acquired prosopagnosia",
+          0.1694944705648307
+        ],
+        [
+          "prosopagnosia",
+          0.029827478417953655
+        ],
+        [
+          "autosomal dominant mode of inheritance",
+          0.019368921575931137
+        ],
+        [
+          "the acquired",
+          0.008991041761729907
+        ],
+        [
+          "Congenital",
+          0.008668934711574249
+        ],
+        [
+          "inherited in an autosomal dominant",
+          0.006989731849985448
+        ],
+        [
+          "In contrast to the acquired",
+          0.0061016859546501965
+        ],
+        [
+          "an autosomal dominant",
+          0.004759639276673421
+        ],
+        [
+          "in an autosomal dominant",
+          0.003954923183323477
+        ],
+        [
+          "acquired form",
+          0.001416344396815345
+        ],
+        [
+          "There is evidence that it can be inherited in an autosomal dominant",
+          0.0008358538353011666
+        ],
+        [
+          "acquired form of prosopagnosia",
+          0.0002509363437984913
+        ],
+        [
+          "inherited in an autosomal dominant mode of inheritance",
+          0.0001305691078806249
+        ],
+        [
+          "autosomal dominant mode",
+          0.00011640538197025665
+        ],
+        [
+          "an autosomal dominant mode of inheritance",
+          8.891068606446258e-05
+        ],
+        [
+          "in an autosomal dominant mode of inheritance",
+          7.387848387689187e-05
+        ],
+        [
+          "can be inherited in an autosomal dominant",
+          6.647943311743906e-05
+        ],
+        [
+          "contrast to the acquired",
+          5.6342691800600255e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "643bc8f957b1c7a31500002b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Promoters mark the start of every transcript and are an important class of regulatory elements",
+          0.6105326202390078
+        ],
+        [
+          "Promoters",
+          0.38596337786230794
+        ],
+        [
+          "directly upstream or at the 5' end of the transcription initiation site",
+          0.1838778840540507
+        ],
+        [
+          "5' end of the transcription initiation site",
+          0.1729197855358055
+        ],
+        [
+          "A promoter is a short region of DNA (100-1,000 bp)",
+          0.02268709973359153
+        ],
+        [
+          "upstream or at the 5' end of the transcription initiation site",
+          0.00821360908790991
+        ],
+        [
+          "at the 5' end of the transcription initiation site",
+          0.007208396801043692
+        ],
+        [
+          "the 5' end of the transcription initiation site",
+          0.007077943980535014
+        ],
+        [
+          "It is typically located directly upstream or at the 5' end of the transcription initiation site",
+          0.005401871916119909
+        ],
+        [
+          "100-1,000 bp) where transcription of a gene by RNA polymerase begins",
+          0.004327150215140307
+        ],
+        [
+          "directly upstream",
+          0.003997733457407228
+        ],
+        [
+          "A promoter",
+          0.003511455624201871
+        ],
+        [
+          "1,000 bp) where transcription of a gene by RNA polymerase begins",
+          0.0031540819654214025
+        ],
+        [
+          "Pro",
+          0.0011895824381011762
+        ],
+        [
+          "Promote",
+          0.0010690101559948798
+        ],
+        [
+          "Promoters mark the start of every transcript",
+          0.0007568299736873785
+        ],
+        [
+          "Promoters mark the start of every transcript and",
+          0.0003215144071876475
+        ],
+        [
+          "Promoters mark the start of every transcript and are an important class",
+          5.393981774932502e-05
+        ],
+        [
+          "Promoters mark the start",
+          5.2518780343084564e-05
+        ],
+        [
+          "Promoters mark the start of every transcript and are an important class of regulatory",
+          4.8723152504454e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64403be357b1c7a31500004e",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "24 weeks",
+          0.9916738554428908
+        ],
+        [
+          "24",
+          0.007375633777636365
+        ],
+        [
+          "0 and 12 weeks with follow up lasting 24 weeks",
+          0.0005890915248083519
+        ],
+        [
+          "12 weeks with follow up lasting 24 weeks",
+          0.00030891902059181585
+        ],
+        [
+          "weeks",
+          3.1936915281829e-05
+        ],
+        [
+          "0 and 12 weeks with follow up lasting 24",
+          4.381421262990991e-06
+        ],
+        [
+          "0 and 12 weeks",
+          2.9688540894352943e-06
+        ],
+        [
+          "12 weeks with follow up lasting 24",
+          2.297613033566672e-06
+        ],
+        [
+          "two suprachoroidal injections of CLS-TA at 0 and 12 weeks with follow up lasting 24 weeks",
+          2.0371991597952e-06
+        ],
+        [
+          "12 weeks",
+          1.556864186573943e-06
+        ],
+        [
+          "suprachoroidal injections of CLS-TA at 0 and 12 weeks with follow up lasting 24 weeks",
+          1.3405062575750943e-06
+        ],
+        [
+          "at 0 and 12 weeks with follow up lasting 24 weeks",
+          5.965685565496357e-07
+        ],
+        [
+          "CLS-TA at 0 and 12 weeks with follow up lasting 24 weeks",
+          5.955158242253793e-07
+        ],
+        [
+          "weeks with follow up lasting 24 weeks",
+          4.985988319781499e-07
+        ],
+        [
+          "follow up lasting 24 weeks",
+          2.1761022661574774e-07
+        ],
+        [
+          "lasting 24 weeks",
+          1.662338469535526e-07
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440396957b1c7a31500004b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Suprachoroidal",
+          1.8619729770414177
+        ],
+        [
+          "Suprachoroidal delivery",
+          0.09550970167310009
+        ],
+        [
+          "suprachoroidal space",
+          0.02028663713187328
+        ],
+        [
+          "suprachoroidal space (SCS\u00ae)",
+          0.010776669329212495
+        ],
+        [
+          "SCS Microinjector\u00ae. Suprachoroidal",
+          0.002256869132491814
+        ],
+        [
+          "Su",
+          0.0019452371021526178
+        ],
+        [
+          "Suprachoroidal (SC)",
+          0.0014350736154594827
+        ],
+        [
+          "suprachoroidal space (SCS\u00ae) has become a clinical reality after the 2021 FDA approval of CLS-TA",
+          0.0010536803055517685
+        ],
+        [
+          "Microinjector\u00ae. Suprachoroidal",
+          0.0009467559904259011
+        ],
+        [
+          "Suprachoroidal delivery enables targeting, localization and durability of small molecule suspensions",
+          0.0006297786289437107
+        ],
+        [
+          "microneedle-based device, the SCS Microinjector\u00ae. Suprachoroidal",
+          0.0005928799819000686
+        ],
+        [
+          "Suprachoroidal (SC) delivery",
+          0.00024166780356622882
+        ],
+        [
+          "triamcinolone acetonide injectable suspension for suprachoroidal",
+          0.00014930469899950344
+        ],
+        [
+          "the SCS Microinjector\u00ae. Suprachoroidal",
+          8.404187338476966e-05
+        ],
+        [
+          "CLS-TA, a triamcinolone acetonide injectable suspension for suprachoroidal",
+          5.131643308375492e-05
+        ],
+        [
+          "Supra",
+          2.992081388283057e-05
+        ],
+        [
+          "SCS Microinjector",
+          1.2283072399106263e-05
+        ],
+        [
+          "Suprachoroid",
+          3.4345569642991486e-06
+        ],
+        [
+          "Suprachoroidal delivery enables",
+          2.750253993842905e-06
+        ],
+        [
+          "Suprachoroidal delivery enables targeting, localization and durability of small molecule",
+          1.1909423375377072e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6431708a57b1c7a315000017",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "miR-145",
+          0.9810405598448698
+        ],
+        [
+          "cardiomyocytes",
+          0.9357972061786215
+        ],
+        [
+          "T1AM",
+          0.9354332483346393
+        ],
+        [
+          "T1AM on cardiomyocytes",
+          0.05428253886352171
+        ],
+        [
+          "Stretching of cultured cardiomyocytes",
+          0.04359965726910785
+        ],
+        [
+          "cardiomyocytes up-regulates the expression of brain natriuretic peptide (BNP)",
+          0.01881716475070912
+        ],
+        [
+          "145",
+          0.010790440719080951
+        ],
+        [
+          "cardiomyocytes, after up-regulating the expression of miR-145",
+          0.0025660542447366328
+        ],
+        [
+          "brain natriuretic peptide (BNP)",
+          0.0023936060255765716
+        ],
+        [
+          "cultured cardiomyocytes",
+          0.001992241850561557
+        ],
+        [
+          "B-type natriuretic peptide (BNP) induced by PE decreased",
+          0.0019514553310772285
+        ],
+        [
+          "In hypertrophic cardiomyocytes, after up-regulating the expression of miR-145",
+          0.0016038971280963406
+        ],
+        [
+          "hypertrophic cardiomyocytes, after up-regulating the expression of miR-145",
+          0.001046806275900059
+        ],
+        [
+          "Stretching of cultured cardiomyocytes up-regulates the expression of brain natriuretic peptide (BNP)",
+          0.0008817830467825393
+        ],
+        [
+          "cardiomyocytes up-regulates the expression of brain natriuretic peptide",
+          0.000664422999551507
+        ],
+        [
+          "up-regulating the expression of miR-145",
+          0.0005568606699124775
+        ],
+        [
+          "T",
+          0.0003495394165046135
+        ],
+        [
+          "cardiomy",
+          0.0002971919897257606
+        ],
+        [
+          "We explored the direct impact of T1AM",
+          0.00026604359920186606
+        ],
+        [
+          "T1",
+          0.00020934547388131537
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "640f8641201352f04a00002c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "eyes",
+          0.9994591167848704
+        ],
+        [
+          "subscleral",
+          0.9773247630398334
+        ],
+        [
+          "trabeculotomy",
+          0.3967197923043149
+        ],
+        [
+          "Microinvasive Glaucoma Surgery Devices",
+          0.3957513550370536
+        ],
+        [
+          "Glaucoma Surgery Devices",
+          0.36236304236194145
+        ],
+        [
+          "P",
+          0.25776447529611946
+        ],
+        [
+          "Outflow Facility Effects of 3 Schlemm's Canal Microinvasive Glaucoma Surgery Devices",
+          0.12232884916996917
+        ],
+        [
+          "This retrospective case series",
+          0.10374422957785681
+        ],
+        [
+          "3 Schlemm's Canal Microinvasive Glaucoma Surgery Devices",
+          0.09563889377237698
+        ],
+        [
+          "This retrospective case series included patients with PCG who underwent trabeculotomy",
+          0.09170601141497035
+        ],
+        [
+          "glaucoma surgery (MIGS) devices on outflow facility.DESIGN:",
+          0.08786637425731146
+        ],
+        [
+          "3 Schlemm's canal (SC) microinvasive glaucoma surgery (MIGS) devices on outflow facility",
+          0.08672670852417276
+        ],
+        [
+          "microinvasive glaucoma surgery (MIGS) devices on outflow facility",
+          0.08059278097397397
+        ],
+        [
+          "PCG who underwent trabeculotomy",
+          0.07054100834423929
+        ],
+        [
+          "trab",
+          0.06562501609450659
+        ],
+        [
+          "outflow facility.DESIGN: Paired comparisons, randomized design, baseline-controlled study.P",
+          0.05836640663098478
+        ],
+        [
+          "Paired comparisons, randomized design, baseline-controlled study.P",
+          0.05303679256209007
+        ],
+        [
+          "DESIGN: Paired comparisons, randomized design, baseline-controlled study.P",
+          0.0453584999603771
+        ],
+        [
+          "Schlemm's canal (SC) microinvasive glaucoma surgery (MIGS) devices on outflow facility",
+          0.04476979447662036
+        ],
+        [
+          "trabeculotomy using an illuminated microcatheter",
+          0.042354635864495005
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644009c557b1c7a315000041",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "autosomal recessive",
+          0.9994472579993363
+        ],
+        [
+          "autosomal recess",
+          0.0002726006307501789
+        ],
+        [
+          "auto",
+          0.0001345894017845305
+        ],
+        [
+          "recessive",
+          0.00011499633646446533
+        ],
+        [
+          "Friedreich's Ataxia (FRDA) is an autosomal recessive",
+          1.7736957379679038e-05
+        ],
+        [
+          "autosomal re",
+          2.088484734577867e-06
+        ],
+        [
+          "autosomal",
+          1.8460207664257911e-06
+        ],
+        [
+          "autoso",
+          1.3483640807656583e-06
+        ],
+        [
+          "autosomal recessive neurodegenerative disorder",
+          1.067363116231125e-06
+        ],
+        [
+          "an autosomal recessive",
+          4.213025079733579e-07
+        ],
+        [
+          "(FRDA) is an autosomal recessive",
+          3.7521287093477436e-07
+        ],
+        [
+          "Ataxia (FRDA) is an autosomal recessive",
+          1.0431240744191986e-07
+        ],
+        [
+          "autosomal recessive neurodegenerative",
+          6.280209111312879e-08
+        ],
+        [
+          "Friedreich's Ataxia (FRDA) is an autosomal recess",
+          4.8377798133823655e-09
+        ],
+        [
+          "Friedreich's Ataxia (FRDA) is an auto",
+          2.3885267222478092e-09
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64371a4257b1c7a315000029",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "operons",
+          1.803746111723682
+        ],
+        [
+          "Clustering of functionally related genes in operons",
+          0.6074437497317002
+        ],
+        [
+          "polycistronic messages (operons)",
+          0.08867858530486215
+        ],
+        [
+          "operon",
+          0.015860445205260917
+        ],
+        [
+          "Clustering of functionally related genes in operon",
+          0.011975395238480215
+        ],
+        [
+          "polycistronic messages",
+          0.009772633865774448
+        ],
+        [
+          "operons allows for coregulated gene expression in prokaryotes",
+          0.0009471834958882717
+        ],
+        [
+          "operons is a fundamental element of how genetic information is organized in prokaryotes",
+          0.0008040674169466852
+        ],
+        [
+          "The arrangement of functionally-related genes in operons",
+          0.0003839909636628504
+        ],
+        [
+          "in operons",
+          0.00018494696806359523
+        ],
+        [
+          "Prokaryotes evolved polycistronic messages (operons)",
+          0.00016203517802135942
+        ],
+        [
+          "Clustering of functionally related genes in operons allows for coregulated gene expression",
+          0.00012381310289872398
+        ],
+        [
+          "op",
+          0.00011200677699745002
+        ],
+        [
+          "operons allows for coregulated gene expression",
+          7.548532707528371e-05
+        ],
+        [
+          "Clustering",
+          4.37727053903019e-05
+        ],
+        [
+          "C",
+          3.489301092592789e-05
+        ],
+        [
+          "Clustering of functionally related genes in op",
+          3.059403029906054e-05
+        ],
+        [
+          "Prokaryotes evolved polycistronic messages",
+          1.7856740302458414e-05
+        ],
+        [
+          "Cluster",
+          1.0851437216587284e-05
+        ],
+        [
+          "polycistronic",
+          7.029733416234415e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440377c57b1c7a315000049",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "triamcinolone",
+          0.5755999848920524
+        ],
+        [
+          "triamcinolone acetonide",
+          0.42402635711517805
+        ],
+        [
+          "acetonide",
+          0.000325049164949975
+        ],
+        [
+          "CLS-TA, a triamcinolone",
+          1.9851763118858405e-05
+        ],
+        [
+          "CLS-TA, a triamcinolone acetonide",
+          1.4624167857095439e-05
+        ],
+        [
+          "t",
+          1.0262877964927206e-05
+        ],
+        [
+          "triamcinolone acetonide injectable suspension for suprachoroidal use (XIPERE\u00ae)",
+          3.0212187190872465e-07
+        ],
+        [
+          "a triamcinolone",
+          2.934254878412033e-07
+        ],
+        [
+          "tria",
+          2.895047427659821e-07
+        ],
+        [
+          "a triamcinolone acetonide",
+          2.1615730361317338e-07
+        ],
+        [
+          "triamcinolone ace",
+          1.5054642870701342e-07
+        ],
+        [
+          "triamcin",
+          1.328273653988668e-07
+        ],
+        [
+          "2021 FDA approval of CLS-TA, a triamcinolone",
+          9.18901130740669e-08
+        ],
+        [
+          "triamcinolo",
+          8.257465239025864e-08
+        ],
+        [
+          "triam",
+          7.435788076148442e-08
+        ],
+        [
+          "2021 FDA approval of CLS-TA, a triamcinolone acetonide",
+          6.769254851354039e-08
+        ],
+        [
+          "the 2021 FDA approval of CLS-TA, a triamcinolone",
+          4.498263809039423e-08
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6441057657b1c7a315000052",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "FLACC",
+          2.166940615461907
+        ],
+        [
+          "FLACC and COMFORT",
+          0.662224276206424
+        ],
+        [
+          "FLACC-r",
+          0.5676521220218095
+        ],
+        [
+          "Wong-Baker Faces Pain Rating Scale",
+          0.42448085751113257
+        ],
+        [
+          "Wong-Baker Faces",
+          0.0896067480134737
+        ],
+        [
+          "Wong-Baker Faces Pain Rating Scale, and the Face, Legs, Activity, Cry, and Consolability (FLACC)",
+          0.044920365644842794
+        ],
+        [
+          "FLACC and COMFORT scales",
+          0.03828878323155411
+        ],
+        [
+          "Face, Legs, Activity, Cry, and Consolability (FLACC) scale",
+          0.030727273304438227
+        ],
+        [
+          "FLACC) scale",
+          0.01717783558653455
+        ],
+        [
+          "Face, Legs, Activity, Cry, Consolability-revised scale",
+          0.01444735896216217
+        ],
+        [
+          "Face, Legs, Activity, Cry, and Consolability (FLACC)",
+          0.009573619141587272
+        ],
+        [
+          "Visual Analogue Scale (VAS), the Wong-Baker Faces Pain Rating Scale",
+          0.009416742294631446
+        ],
+        [
+          "Faces Pain Rating Scale",
+          0.008612934629821184
+        ],
+        [
+          "COMFORT",
+          0.0035064160692416793
+        ],
+        [
+          "Wong-Baker Faces Pain",
+          0.0025321396898706546
+        ],
+        [
+          "Faces Pain Rating Scale, and the Face, Legs, Activity, Cry, and Consolability (FLACC) scale",
+          0.0023761541217785847
+        ],
+        [
+          "Visual Analogue Scale (VAS), the Wong-Baker Faces",
+          0.002033911284801334
+        ],
+        [
+          "Face, Legs, Activity, Cry, Consolability-revised scale (FLACC-r)",
+          0.0015298460284360583
+        ],
+        [
+          "The FLACC and COMFORT",
+          0.0015188975738673206
+        ],
+        [
+          "FLACC-r)",
+          0.0008494272639476548
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64257c9c690f196b5100004b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "phenotype-based drug-induced liver injury causality assessment tool",
+          0.5902628166414735
+        ],
+        [
+          "early detection of drug's hepatotoxicity in clinical drug development",
+          0.5755011350662202
+        ],
+        [
+          "drug-specific liver injury phenotypes",
+          0.36003443132945817
+        ],
+        [
+          "liver injury phenotypes",
+          0.3330436327091547
+        ],
+        [
+          "early detection of drug's hepatotoxicity",
+          0.1550167811282569
+        ],
+        [
+          "A novel phenotype-based drug-induced liver injury causality assessment tool",
+          0.13494699271345242
+        ],
+        [
+          "DILI causality assessment tool",
+          0.11315663766961839
+        ],
+        [
+          "DILI causality assessment tool (DILI-CAT), which uses drug-specific liver injury phenotypes",
+          0.10892989833922714
+        ],
+        [
+          "drug-induced liver injury causality assessment tool",
+          0.08395160427748401
+        ],
+        [
+          "uses drug-specific liver injury phenotypes",
+          0.07508028844834896
+        ],
+        [
+          "computer-assisted scoring algorithm",
+          0.042512191574317015
+        ],
+        [
+          "computer-assisted scoring algorithm, is a useful tool for early detection of drug's hepatotoxicity",
+          0.035881503932141366
+        ],
+        [
+          "DILI-CAT, a clinically intuitive, data-driven, computer-assisted scoring algorithm",
+          0.018205329187151106
+        ],
+        [
+          "hepatotoxicity in clinical drug development",
+          0.0113818437933847
+        ],
+        [
+          "a clinically intuitive, data-driven, computer-assisted scoring algorithm",
+          0.010000763800448138
+        ],
+        [
+          "drug's hepatotoxicity in clinical drug development",
+          0.008736956826973102
+        ],
+        [
+          "allows for signal confirmation in early drug development",
+          0.005423366373842558
+        ],
+        [
+          "hepatotoxicity",
+          0.002844115876043003
+        ],
+        [
+          "drug's hepatotoxicity",
+          0.0023683285579566833
+        ],
+        [
+          "a useful tool for early detection of drug's hepatotoxicity in clinical drug development",
+          0.0014196097666298044
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6429e85e57b1c7a315000009",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Riboswitches",
+          0.9225068849231961
+        ],
+        [
+          "riboswitches might be representatives of an ancient form of genetic control",
+          0.8518439347962756
+        ],
+        [
+          "metabolism",
+          0.7925685688710536
+        ],
+        [
+          "riboswitches are typically located in noncoding regions of mRNA",
+          0.6508800974536139
+        ],
+        [
+          "mRNAs is widespread in prokaryotes",
+          0.09653829053151243
+        ],
+        [
+          "Riboswitch",
+          0.060724002561977256
+        ],
+        [
+          "Riboswitches are a class of RNA motifs in the untranslated regions of bacterial messenger RNAs",
+          0.052627815562152125
+        ],
+        [
+          "R",
+          0.03239298437869429
+        ],
+        [
+          "Genetic control by metabolite-binding mRNAs is widespread in prokaryotes",
+          0.03035159467036695
+        ],
+        [
+          "Riboswitches are a class of RNA motifs in the untranslated regions",
+          0.020234671209741498
+        ],
+        [
+          "mRNAs",
+          0.018272048550787505
+        ],
+        [
+          "These riboswitches are typically located in noncoding regions of mRNA",
+          0.017294217298228273
+        ],
+        [
+          "metabolite-binding mRNAs is widespread in prokaryotes",
+          0.011040859095358149
+        ],
+        [
+          "Riboswitches are a class of RNA motifs",
+          0.010496292729434906
+        ],
+        [
+          "Riboswitches are a class of RNA motifs in the untranslated regions of bacterial messenger RNA",
+          0.008746089061482516
+        ],
+        [
+          "mRNAs is widespread in prokaryotes. These riboswitches",
+          0.006317393175367063
+        ],
+        [
+          "riboswitches are typically located in noncoding regions of mRNA, where",
+          0.006292691650718127
+        ],
+        [
+          "Genetic control by metabolite-binding mRNAs",
+          0.00574472376046205
+        ],
+        [
+          "riboswitches are typically located in noncoding regions",
+          0.00547966071754773
+        ],
+        [
+          "direct expression of the genes involved in their metabolism",
+          0.003695993212700869
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440393157b1c7a31500004a",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "2021",
+          0.9997300167051402
+        ],
+        [
+          "202",
+          0.00026354764402033233
+        ],
+        [
+          "2021 FDA approval of CLS-TA",
+          3.0431478796205226e-06
+        ],
+        [
+          "the 2021",
+          2.013872668236319e-06
+        ],
+        [
+          "after the 2021",
+          1.028052511535018e-06
+        ],
+        [
+          "Drug delivery to the suprachoroidal space (SCS\u00ae) has become a clinical reality after the 2021",
+          8.871084422945302e-08
+        ],
+        [
+          "2021 FDA",
+          4.408257959672527e-08
+        ],
+        [
+          "suprachoroidal space (SCS\u00ae) has become a clinical reality after the 2021",
+          3.883246087803916e-08
+        ],
+        [
+          "2021 FDA approval of CLS-TA, a triamcinolone acetonide",
+          3.8140397967914515e-08
+        ],
+        [
+          "become a clinical reality after the 2021",
+          3.5922564816777655e-08
+        ],
+        [
+          "2021 FDA approval of CLS-TA, a triamcinolone",
+          2.3062985023823336e-08
+        ],
+        [
+          "2021 FDA approval of CLS-TA, a triamcinolone acetonide injectable suspension",
+          1.9077775237307558e-08
+        ],
+        [
+          "the 202",
+          5.308947297789917e-10
+        ],
+        [
+          "after the 202",
+          2.7101398659329306e-10
+        ],
+        [
+          "Drug delivery to the suprachoroidal space (SCS\u00ae) has become a clinical reality after the 202",
+          2.338584778396484e-11
+        ],
+        [
+          "CLS-TA",
+          1.4884170602254137e-11
+        ],
+        [
+          "suprachoroidal space (SCS\u00ae) has become a clinical reality after the 202",
+          1.0236967386103218e-11
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415b3b4690f196b51000009",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "yellow",
+          0.5320481489403422
+        ],
+        [
+          "yellow light",
+          0.4679197399511656
+        ],
+        [
+          "light",
+          2.8481043594653943e-05
+        ],
+        [
+          "millisecond-timescale pulses of yellow",
+          1.4702342950851189e-06
+        ],
+        [
+          "millisecond-timescale pulses of yellow light",
+          1.2930251714881035e-06
+        ],
+        [
+          "enables them to be silenced reliably, and reversibly, by millisecond-timescale pulses of yellow",
+          1.826003039936729e-07
+        ],
+        [
+          "pulses of yellow",
+          1.4589576624657346e-07
+        ],
+        [
+          "silenced reliably, and reversibly, by millisecond-timescale pulses of yellow",
+          1.3269570652411265e-07
+        ],
+        [
+          "pulses of yellow light",
+          1.2831077250816152e-07
+        ],
+        [
+          "silenced reliably, and reversibly, by millisecond-timescale pulses of yellow light",
+          1.1670173200125376e-07
+        ],
+        [
+          "Here we report",
+          4.116882123294181e-12
+        ],
+        [
+          "Here",
+          3.057327416064457e-12
+        ],
+        [
+          "we report",
+          2.707774165658287e-12
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6429fad757b1c7a31500000e",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "TATA\" box",
+          0.9957787292128264
+        ],
+        [
+          "TATA box",
+          0.9955376859367774
+        ],
+        [
+          "TATAWAWR",
+          0.8425283442659627
+        ],
+        [
+          "TFIID",
+          0.8357294155555436
+        ],
+        [
+          "TATAWAWR)",
+          0.1475321454026987
+        ],
+        [
+          "TFIID multiprotein complex",
+          0.0828739583605713
+        ],
+        [
+          "TATA-binding protein (TBP) is one of the major components of the human TFIID",
+          0.061085800853348755
+        ],
+        [
+          "T",
+          0.006760471009814751
+        ],
+        [
+          "TATA-binding protein (TBP) is one of the major components of the human TFIID multiprotein complex",
+          0.0060574894482771985
+        ],
+        [
+          "TBP binding to the TATA box",
+          0.004245705300647213
+        ],
+        [
+          "TATA\" box, which is located 25-30 nucleotides upstream of the transcription initiation site",
+          0.003652834580838088
+        ],
+        [
+          "TATA-like element and their promoters are generally AT-rich;",
+          0.001809700890731718
+        ],
+        [
+          "TFIID multiprotein complex. It is important in directing the initiation of RNA transcription",
+          0.001590665129221189
+        ],
+        [
+          "TATA-binding protein (TBP) is one of the major components of the human T",
+          0.00031130911872077194
+        ],
+        [
+          "the \"TATA\" box",
+          0.0001449517716577283
+        ],
+        [
+          "TATA-like element",
+          0.00014409007398451284
+        ],
+        [
+          "TATA box induces a specific downstream unwinding site that is targeted by pluramycin",
+          0.00013453591940479283
+        ],
+        [
+          "TATA",
+          0.0001236734897144874
+        ],
+        [
+          "TATA box) found in many eukaryotic promoters",
+          0.00011107715405965801
+        ],
+        [
+          "\"TATA\" box",
+          7.398186541519752e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64402e7757b1c7a315000044",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "9",
+          0.9972899025859264
+        ],
+        [
+          "Nineteen",
+          0.9723879727622032
+        ],
+        [
+          "Nineteen patients enrolled in the trial, and 18",
+          0.024004872777555225
+        ],
+        [
+          "18",
+          0.0027479365460798713
+        ],
+        [
+          "9 subjects",
+          0.0020455862038932667
+        ],
+        [
+          "9 subjects each cohort",
+          0.0004524733623271546
+        ],
+        [
+          "Nine",
+          0.0003334997753713477
+        ],
+        [
+          "Nineteen patients enrolled in the trial, and 18 completed all safety and efficacy measurements",
+          0.0002942973530866746
+        ],
+        [
+          "Nineteen patients enrolled in the trial",
+          0.00010042756448394616
+        ],
+        [
+          "Nineteen patients enrolled",
+          4.634986378584624e-05
+        ],
+        [
+          "Nineteen patients",
+          3.945633028754136e-05
+        ],
+        [
+          "18 completed all safety and efficacy measurements",
+          3.368942878620863e-05
+        ],
+        [
+          "9 subjects each",
+          1.1960351474512288e-05
+        ],
+        [
+          "Nineteen patients enrolled in the trial, and",
+          7.668946309255322e-06
+        ],
+        [
+          "enrolled in the trial, and 18",
+          1.656051659134457e-06
+        ],
+        [
+          "and 18",
+          1.225437994241314e-06
+        ],
+        [
+          "patients enrolled in the trial, and 18",
+          5.297765712855306e-07
+        ],
+        [
+          "9 subjects each cohor",
+          4.983049560491039e-07
+        ],
+        [
+          "the trial, and 18",
+          3.6514879677516425e-07
+        ],
+        [
+          "enrolled in the trial, and 18 completed all safety and efficacy measurements",
+          1.9692007190476624e-08
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64425ce357b1c7a315000059",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "1:8000",
+          0.9761691108082539
+        ],
+        [
+          "1 in 20000",
+          0.9243719983275526
+        ],
+        [
+          "20000",
+          0.06662304745695125
+        ],
+        [
+          "8000",
+          0.019225117144407736
+        ],
+        [
+          "1",
+          0.004795790578230045
+        ],
+        [
+          "1:8000 incidence",
+          0.004196007223553673
+        ],
+        [
+          "1 in 20000. Overall lifespan is not affected significantly",
+          0.0024213956107654263
+        ],
+        [
+          "about 1 in 20000",
+          0.0011902197808322653
+        ],
+        [
+          "1 in 2000",
+          0.0003171147691918708
+        ],
+        [
+          "1 in",
+          0.00022178755240317196
+        ],
+        [
+          "20000. Overall lifespan is not affected significantly",
+          0.00017451930064947096
+        ],
+        [
+          "8000 incidence",
+          8.263806907883807e-05
+        ],
+        [
+          "approximate 1:8000",
+          4.9415852729508885e-05
+        ],
+        [
+          "incidence of about 1 in 20000",
+          4.921974311395432e-05
+        ],
+        [
+          "2000",
+          2.285568186335704e-05
+        ],
+        [
+          "1:800",
+          1.062523300370032e-05
+        ],
+        [
+          "4 per 100000 and an incidence of about 1 in 20000",
+          9.835671675469751e-06
+        ],
+        [
+          "in 20000",
+          8.294165378095953e-06
+        ],
+        [
+          "an approximate 1:8000",
+          7.944315987962662e-06
+        ],
+        [
+          "about 1",
+          5.850639043530203e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f581e933942b094c000007",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "spinal muscular atrophy",
+          2.997784187526032
+        ],
+        [
+          "SMA",
+          0.9834243732088901
+        ],
+        [
+          "SMA therapeutics are shifting the natural history of the disease",
+          0.008237198820987368
+        ],
+        [
+          "Major advances and developments in SMA",
+          0.001655146160097884
+        ],
+        [
+          "motor neurons. Major advances and developments in SMA",
+          0.0015167754005634597
+        ],
+        [
+          "Type 1 or 2 spinal muscular atrophy",
+          0.0013798659990486538
+        ],
+        [
+          "SMN1 produces SMN, a ubiquitously expressed protein",
+          0.0009069030440051071
+        ],
+        [
+          "spinal muscular atrophy (SMA)",
+          0.0003453109670844841
+        ],
+        [
+          "SMN1 produces SMN",
+          0.0003142342014299094
+        ],
+        [
+          "atrophy-is",
+          0.000217363255688271
+        ],
+        [
+          "SMN, a ubiquitously expressed protein",
+          0.00015700132240554793
+        ],
+        [
+          "Evrysdi), patients survive longer and have improved outcomes",
+          0.00012367136290304963
+        ],
+        [
+          "spinal",
+          9.611827388145665e-05
+        ],
+        [
+          "Evrysdi)",
+          7.338481842320352e-05
+        ],
+        [
+          "Evrysdi",
+          6.75097806175275e-05
+        ],
+        [
+          "An expanded access program of risdiplam for patients with Type 1 or 2 spinal muscular atrophy",
+          5.2738800421445685e-05
+        ],
+        [
+          "SMN1",
+          4.1166585258377885e-05
+        ],
+        [
+          "SMN",
+          4.0552945909297986e-05
+        ],
+        [
+          "risdiplam (Evrysdi), patients survive longer and have improved outcomes",
+          3.1809585011550494e-05
+        ],
+        [
+          "atrophy",
+          3.1627155513564205e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6431f7de57b1c7a31500001b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "frataxin",
+          6.979816214544732
+        ],
+        [
+          "frataxin (FXN) gene",
+          0.011873067712260509
+        ],
+        [
+          "frataxin (FXN)",
+          0.0005609255180858213
+        ],
+        [
+          "f",
+          0.0004697714253713617
+        ],
+        [
+          "frataxin in whole blood from healthy controls and homozygous FRDA",
+          0.00034099754044671115
+        ],
+        [
+          "Simultaneous Quantification of Mitochondrial Mature Frataxin",
+          9.02172897434044e-05
+        ],
+        [
+          "Mitochondrial Mature Frataxin",
+          4.7836126845537946e-05
+        ],
+        [
+          "Frataxin and Extra-Mitochondrial Frataxin Isoform E in Friedreich's Ataxia Blood",
+          4.5159349915862974e-05
+        ],
+        [
+          "frataxin proteoforms in whole blood from healthy controls and FRDA patients",
+          2.3353698353405508e-05
+        ],
+        [
+          "Quantification of Mitochondrial Mature Frataxin",
+          2.23049004780639e-05
+        ],
+        [
+          "Frataxin and Extra-Mitochondrial Frataxin Isoform E",
+          1.346248468534548e-05
+        ],
+        [
+          "We now report a quantitative assay for frataxin",
+          1.1188651945822552e-05
+        ],
+        [
+          "FXN",
+          1.0655679830849927e-05
+        ],
+        [
+          "frataxin (FXN) gene, which leads to reduced expression of full-length frataxin",
+          1.0557269538273697e-05
+        ],
+        [
+          "frataxin (FXN) gene, which leads to reduced expression of full-length frataxin (1-210)",
+          1.0429607694668293e-05
+        ],
+        [
+          "Frataxin and Extra-Mitochondrial Frataxin",
+          1.0043591978296935e-05
+        ],
+        [
+          "frataxin proteoforms in whole blood from healthy controls and FRDA",
+          8.741859012140606e-06
+        ],
+        [
+          "frataxin (FXN) gene, which leads to reduced expression of full-length frataxin (1-210",
+          4.95768595692056e-06
+        ],
+        [
+          "frataxin in whole blood from healthy controls",
+          4.324430638744541e-06
+        ],
+        [
+          "Fr",
+          3.578484978806028e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "643f9eeb57b1c7a31500003c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "19.7",
+          0.9237975726854795
+        ],
+        [
+          "1:5,000 live male births",
+          0.7820000485603884
+        ],
+        [
+          "1:5,000",
+          0.211973085480005
+        ],
+        [
+          "19.7 per 100,000 male live births",
+          0.03756917268962036
+        ],
+        [
+          "The cumulative incidence of disease was 19.7",
+          0.02349616733104896
+        ],
+        [
+          "7",
+          0.007913543915718541
+        ],
+        [
+          "5,000 live male births",
+          0.0030556447717555316
+        ],
+        [
+          "19",
+          0.002579872601307356
+        ],
+        [
+          "19.7 per 100,000 male live births and 1 in 5076 live born males were diagnosed with DMD",
+          0.0018288183508878232
+        ],
+        [
+          "1",
+          0.0017647637325455966
+        ],
+        [
+          "The cumulative incidence of disease was 19.7 per 100,000 male live births",
+          0.0009555465332500214
+        ],
+        [
+          "5,000",
+          0.0008282792969031985
+        ],
+        [
+          "19.7 per 100,000 male live births and 1 in 5076",
+          0.000536696915992184
+        ],
+        [
+          "19.7 per 100,000",
+          0.0005255454557973155
+        ],
+        [
+          "7 per 100,000 male live births",
+          0.00032182948596872564
+        ],
+        [
+          "overall incidence of 1:5,000 live male births",
+          0.0002066939463022148
+        ],
+        [
+          ".7",
+          0.0001316509886673411
+        ],
+        [
+          "19.7 per",
+          0.00012713368328275118
+        ],
+        [
+          "The cumulative incidence of disease was 19",
+          6.485780235323904e-05
+        ],
+        [
+          "overall incidence of 1:5,000",
+          5.607793466959072e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415c252690f196b51000011",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "bladder cancer",
+          0.9777036124569329
+        ],
+        [
+          "Cancer",
+          0.9164027075151641
+        ],
+        [
+          "Non-muscle Invasive Bladder Cancer",
+          0.06240061083567699
+        ],
+        [
+          "bladder",
+          0.023848979566952394
+        ],
+        [
+          "Bacillus Calmette-Guerin for the Treatment of Non-muscle Invasive Bladder Cancer",
+          0.01792849760158881
+        ],
+        [
+          "Treatment of Non-muscle Invasive Bladder Cancer",
+          0.0008884477092829672
+        ],
+        [
+          "the Treatment of Non-muscle Invasive Bladder Cancer",
+          0.0003050509728608093
+        ],
+        [
+          "Invasive Bladder Cancer",
+          0.0001652154807277297
+        ],
+        [
+          "muscle Invasive Bladder Cancer",
+          0.00013174821936305292
+        ],
+        [
+          "for the Treatment of Non-muscle Invasive Bladder Cancer",
+          0.0001198778881959222
+        ],
+        [
+          "Bladder Cancer:",
+          7.661918577476492e-05
+        ],
+        [
+          "bacillus Calmette-Guerin (BCG) treatment for non-muscle invasive bladder cancer",
+          6.054959600850752e-06
+        ],
+        [
+          "Cancer: History and Current Status",
+          3.899656299721005e-06
+        ],
+        [
+          "non-muscle invasive bladder",
+          3.4449473561231875e-06
+        ],
+        [
+          "the bacillus Calmette-Guerin (BCG) treatment for non-muscle invasive bladder cancer",
+          2.387978776467604e-06
+        ],
+        [
+          "bladder cancer, especially for intermediate and high-risk groups",
+          1.3548914074528583e-06
+        ],
+        [
+          "(BCG) treatment for non-muscle invasive bladder cancer",
+          4.891515236685655e-07
+        ],
+        [
+          "past decades, the bacillus Calmette-Guerin (BCG) treatment for non-muscle invasive bladder cancer",
+          4.1035148782544225e-07
+        ],
+        [
+          "Non-muscle Invasive Bladder Cancer: History and Current Status",
+          2.5660698911339183e-07
+        ],
+        [
+          "Bacillus Calmette-Guerin for the Treatment of Non-muscle Invasive Bladder",
+          1.6503993592783042e-07
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63eeed0af36125a426000007",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Multiple Myeloma",
+          4.99890066927482
+        ],
+        [
+          "myeloma",
+          0.0008167910261368042
+        ],
+        [
+          "multiple",
+          0.0002395631610350736
+        ],
+        [
+          "Relapsed or Refractory Multiple Myeloma",
+          1.9700981837246574e-05
+        ],
+        [
+          "multiple myeloma cells in preclinical studies",
+          6.484048620179771e-06
+        ],
+        [
+          "Teclistamab in Relapsed or Refractory Multiple Myeloma",
+          5.1116369669638955e-06
+        ],
+        [
+          "multiple myelo",
+          1.554025572382114e-06
+        ],
+        [
+          "T-cell-mediated cytotoxicity of multiple myeloma",
+          9.858124276713583e-07
+        ],
+        [
+          "teclistamab showed promising efficacy in patients with relapsed or refractory multiple myeloma",
+          9.62347493475565e-07
+        ],
+        [
+          "or refractory multiple myeloma",
+          8.053274646914749e-07
+        ],
+        [
+          "Refractory Multiple Myeloma",
+          7.53284952853721e-07
+        ],
+        [
+          "potent T-cell-mediated cytotoxicity of multiple myeloma",
+          6.975346667221367e-07
+        ],
+        [
+          "patients with relapsed or refractory multiple myeloma",
+          6.668252983969768e-07
+        ],
+        [
+          "multiple my",
+          6.491538659452652e-07
+        ],
+        [
+          "CD3 bispecific antibody, displayed potent T-cell-mediated cytotoxicity of multiple myeloma",
+          5.843469784740154e-07
+        ],
+        [
+          "in Relapsed or Refractory Multiple Myeloma",
+          4.715369950493006e-07
+        ],
+        [
+          "patients with triple-class-exposed relapsed or refractory multiple myeloma",
+          3.821196173377897e-07
+        ],
+        [
+          "displayed potent T-cell-mediated cytotoxicity of multiple myeloma",
+          3.580328980623837e-07
+        ],
+        [
+          "in patients with relapsed or refractory multiple myeloma",
+          3.3420006849768474e-07
+        ],
+        [
+          "multiple myeloma cells",
+          3.1037659976719125e-07
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f03ea0f36125a426000020",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Clostridioides difficile",
+          1.9989966469800309
+        ],
+        [
+          "C. difficile",
+          0.9997679469713732
+        ],
+        [
+          "rCDI",
+          0.9300223709309752
+        ],
+        [
+          "SER-109, an investigational oral microbiome therapeutic, was superior to placebo in reducing rCDI",
+          0.019376703214104247
+        ],
+        [
+          "oral microbiome therapeutic, was superior to placebo in reducing rCDI",
+          0.0074470497749983666
+        ],
+        [
+          "reducing rCDI",
+          0.005890491713475104
+        ],
+        [
+          "investigational oral microbiome therapeutic, was superior to placebo in reducing rCDI",
+          0.005322965933546295
+        ],
+        [
+          "an investigational oral microbiome therapeutic, was superior to placebo in reducing rCDI",
+          0.0038687528019987535
+        ],
+        [
+          "placebo in reducing rCDI",
+          0.003406333128101501
+        ],
+        [
+          "microbiome therapeutic, was superior to placebo in reducing rCDI",
+          0.00332644986556458
+        ],
+        [
+          "in reducing rCDI",
+          0.002919244140447275
+        ],
+        [
+          "superior to placebo in reducing rCDI",
+          0.002303417476743747
+        ],
+        [
+          "was superior to placebo in reducing rCDI",
+          0.0015960092746014516
+        ],
+        [
+          "Clostridioides difficile Infection",
+          0.0003649447006282122
+        ],
+        [
+          "difficile",
+          0.0003414031711631276
+        ],
+        [
+          "C",
+          0.00018189529340752162
+        ],
+        [
+          "Clostridioides diffici",
+          0.00014162349858898405
+        ],
+        [
+          "Clostridioides difficile recurrence, inactivate porcine epidemic diarrhea virus",
+          0.00012201944813680774
+        ],
+        [
+          "rCD",
+          7.589040010418692e-05
+        ],
+        [
+          "r",
+          6.777296985847454e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64179113690f196b5100002e",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Xp21",
+          1.8595764066301284
+        ],
+        [
+          "Xp21 chromosome locus",
+          0.7909148021086715
+        ],
+        [
+          "X",
+          0.05597557088820428
+        ],
+        [
+          "Xp21)",
+          0.048553202699784755
+        ],
+        [
+          "X chromosome (Xp21)",
+          0.020520274696086607
+        ],
+        [
+          "Xp21 chromosome",
+          0.012210471257450029
+        ],
+        [
+          "X chromosome",
+          0.010459668832733473
+        ],
+        [
+          "(Xp21)",
+          0.0002499839085798486
+        ],
+        [
+          "dystrophin gene, located on the X",
+          0.00015621105691541063
+        ],
+        [
+          "the Xp21 chromosome locus",
+          0.00013234464142380717
+        ],
+        [
+          "the X",
+          9.837739452527766e-05
+        ],
+        [
+          "the Xp21",
+          3.227785701697351e-05
+        ],
+        [
+          "Xp",
+          2.880594689318763e-05
+        ],
+        [
+          "Xp21 chromosome lo",
+          1.8717984628754985e-05
+        ],
+        [
+          "mapping on the Xp21 chromosome locus",
+          8.245194510344502e-06
+        ],
+        [
+          "on the Xp21 chromosome locus",
+          3.948818365257757e-06
+        ],
+        [
+          "The dystrophin gene (DMD) is the largest gene in the human genome, mapping on the Xp21",
+          3.0915116065502757e-06
+        ],
+        [
+          "at Xp21",
+          3.0377361371981975e-06
+        ],
+        [
+          "the Xp21 chromosome",
+          2.0431915496770423e-06
+        ],
+        [
+          "mapping on the Xp21",
+          2.0260054460797225e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415c9e9690f196b51000018",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "mTNBC",
+          0.9995999469753568
+        ],
+        [
+          "PD-L1-positive mTNBC",
+          9.815184644005606e-05
+        ],
+        [
+          "chemotherapy and immunotherapy is a potential therapeutic option for PD-L1-positive mTNBC",
+          1.4050373839785892e-05
+        ],
+        [
+          "positive mTNBC",
+          1.0907722010358236e-05
+        ],
+        [
+          "m",
+          1.0386144142464244e-05
+        ],
+        [
+          "-positive mTNBC",
+          7.667667810439082e-06
+        ],
+        [
+          "for PD-L1-positive mTNBC",
+          5.700001969376938e-06
+        ],
+        [
+          "mTNBC, as the FDA recently approved atezolizumab (Tecentriq) and pembrolizumab",
+          1.6958374848467837e-06
+        ],
+        [
+          "mTNBC, as the FDA recently approved atezolizumab",
+          1.5497602842238036e-06
+        ],
+        [
+          "mTNBC, as the FDA recently approved atezolizumab (Tecentriq)",
+          7.452848542136675e-07
+        ],
+        [
+          "mTNBC, as",
+          4.736322680323655e-07
+        ],
+        [
+          "PD-L1-positive m",
+          1.0204176488881805e-09
+        ]
+      ]
+    }
+  ]
+}
