@@ -1,0 +1,748 @@
+{
+  "questions": [
+    {
+      "type": "factoid",
+      "id": "63f57d9b33942b094c000004",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "tryptophan"
+        ],
+        [
+          "try"
+        ],
+        [
+          "tryptophan absorption"
+        ],
+        [
+          "tryptophan absorption was postulated as the underlying pathology"
+        ],
+        [
+          "a new metabolic disease which is deficient in the transport of tryptophan"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6450ec0c57b1c7a31500008f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "frataxin"
+        ],
+        [
+          "FXN gene, which leads to decreased levels of the frataxin"
+        ],
+        [
+          "frataxin protein"
+        ],
+        [
+          "FXN gene, which leads to decreased levels of the frataxin protein"
+        ],
+        [
+          "FXN gene"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644ef46557b1c7a315000083",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Oncogenes"
+        ],
+        [
+          "Oncogenes are gain-of-function mutations of normal regulatory genes or proto-oncogenes"
+        ],
+        [
+          "Oncogenes are gain-of-function mutations of normal regulatory genes"
+        ],
+        [
+          "Oncogene"
+        ],
+        [
+          "On"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6432fdd857b1c7a315000020",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "autosomal dominant"
+        ],
+        [
+          "Hereditary angioedema (HAE) is a rare autosomal dominant"
+        ],
+        [
+          "dominant"
+        ],
+        [
+          "auto"
+        ],
+        [
+          "autosomal dominant disorder caused by mutations of the SERPING1 or the Factor 12 genes"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6450ede757b1c7a315000090",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "first or second decade"
+        ],
+        [
+          "second decade"
+        ],
+        [
+          "the first or second decade"
+        ],
+        [
+          "Friedreich's ataxia is classically considered a disease with onset in the first or second decade"
+        ],
+        [
+          "decade"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f03d58f36125a42600001f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "hip fracture"
+        ],
+        [
+          "fracture"
+        ],
+        [
+          "hip fractures"
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation - WHITE 3: HEMI - An Abridged Protocol"
+        ],
+        [
+          "Hemiarthroplasty"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644008a657b1c7a31500003f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Omaveloxolone"
+        ],
+        [
+          "Omaveloxolo"
+        ],
+        [
+          "O"
+        ],
+        [
+          "Omaveloxolone (RTA 408) is an activator of Nrf2 and an inhibitor of NF\u03baB"
+        ],
+        [
+          "Omavelox"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644640de57b1c7a31500006b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "loss of the SMN1 gene in most cases or mutations in rare cases"
+        ],
+        [
+          "Loss or deletion of survival motor neuron 1 gene (SMN1)"
+        ],
+        [
+          "defects in the survival motor neuron 1 (SMN1) gene"
+        ],
+        [
+          "mutations in SMN1 (encoding survival motor neuron protein (SMN))"
+        ],
+        [
+          "Loss or deletion of survival motor neuron 1 gene"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64403a5857b1c7a31500004c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "phase III trial with two suprachoroidal injections of CLS-TA at 0 and 12 weeks"
+        ],
+        [
+          "phase III trial with two suprachoroidal injections"
+        ],
+        [
+          "phase III trial with two suprachoroidal injections of CLS-TA"
+        ],
+        [
+          "phase III"
+        ],
+        [
+          "suprachoroidal injections of CLS-TA at 0 and 12 weeks"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64402bb057b1c7a315000043",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "phase I/II"
+        ],
+        [
+          "Randomized"
+        ],
+        [
+          "Randomized, clinical trial"
+        ],
+        [
+          "phase I/II double-blind, comparator-controlled trial"
+        ],
+        [
+          "Random"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63eef8d6f36125a42600000f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "malaria"
+        ],
+        [
+          "antimalarial"
+        ],
+        [
+          "antimalaria"
+        ],
+        [
+          "L9LS, a potent and safe antimalaria"
+        ],
+        [
+          "antimalarial monoclonal antibody, and its protective efficacy against controlled human malaria"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64121f44201352f04a000037",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "proteolysis targeting chimeras"
+        ],
+        [
+          "proteolysis targeting chimera"
+        ],
+        [
+          "chimera"
+        ],
+        [
+          "The emerging technology proteolysis targeting chimera"
+        ],
+        [
+          "chimeras"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6451029f57b1c7a315000094",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "1:40,000"
+        ],
+        [
+          "1:40,000 - 1:77,000 liveborn infants a year"
+        ],
+        [
+          "1:40,000 - 1:77,000 liveborn infants"
+        ],
+        [
+          "1:40,000 - 1:77,000"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6432f5f257b1c7a31500001c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "BTK"
+        ],
+        [
+          "BTK inhibitor"
+        ],
+        [
+          "BTK inhibitor, has been approved for treating adults with mantle cell lymphoma"
+        ],
+        [
+          "BT"
+        ],
+        [
+          "BTK inhibitor, was designed to block BTK more specifically than ibrutinib"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440420857b1c7a315000050",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "cabotegravir ER injectable suspension"
+        ],
+        [
+          "HIV-1 pre-exposure prophylaxis"
+        ],
+        [
+          "Cabotegravir Extended-Release Injectable Suspension"
+        ],
+        [
+          "PrEP"
+        ],
+        [
+          "Cabotegravir ER injectable suspension is indicated in the USA for PrEP"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63eef4f5f36125a42600000b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "multiple sclerosis"
+        ],
+        [
+          "MS"
+        ],
+        [
+          "Relapsing Multiple Sclerosis"
+        ],
+        [
+          "CD20"
+        ],
+        [
+          "CD20 therapy about to be approved"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "640c842f201352f04a000025",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "liver palms"
+        ],
+        [
+          "liver palms\""
+        ],
+        [
+          "\"liver palms"
+        ],
+        [
+          "\"liver palms\""
+        ],
+        [
+          "palms"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64468b0757b1c7a315000070",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "PABPN1 gene"
+        ],
+        [
+          "PABPN1"
+        ],
+        [
+          "poly[A]) binding protein nuclear 1 gene (11-18 repeats in OPMD instead of the normal 10 repeats)"
+        ],
+        [
+          "Oculopharyngeal muscular dystrophy (OPMD) is a late-onset intractable myopathy"
+        ],
+        [
+          "abnormal expansion of the alanine-encoding (GCN)n trinucleotide repeat"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f0494cf36125a426000028",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "respiratory syncytial virus"
+        ],
+        [
+          "RSV"
+        ],
+        [
+          "Respiratory Syncytial Virus Inhibitor"
+        ],
+        [
+          "Respiratory Syncytial Virus Inhibitor, in a Human Virus Challenge"
+        ],
+        [
+          "Human Virus Challenge"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "640ddbe9201352f04a000027",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "durvalumab"
+        ],
+        [
+          "IMFINZI"
+        ],
+        [
+          "durvalumab (Imfinzi\u2122; AstraZeneca)"
+        ],
+        [
+          "IMFINZI\u00ae"
+        ],
+        [
+          "du"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644e81fa57b1c7a315000079",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "tumor suppressor genes"
+        ],
+        [
+          "tumour suppressor proteins"
+        ],
+        [
+          "Tumor-suppressor genes (TSGs) or antioncogenes"
+        ],
+        [
+          "Tumor-suppressor genes"
+        ],
+        [
+          "antioncogenes"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415c7fb690f196b51000016",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "September 4, 2014"
+        ],
+        [
+          "2014"
+        ],
+        [
+          "On September 4, 2014"
+        ],
+        [
+          "September 4"
+        ],
+        [
+          "4, 2014"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64468e0d57b1c7a315000071",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "1 in 80,000 individuals worldwide"
+        ],
+        [
+          "1 in 80,000"
+        ],
+        [
+          "1 in 80,000 individuals"
+        ],
+        [
+          "approximately 1 in 80,000 individuals worldwide"
+        ],
+        [
+          "1 in 80,000 individuals worldwide. However, it can affect as much as 1:600"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f04716f36125a426000025",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "angioedema"
+        ],
+        [
+          "HAE"
+        ],
+        [
+          "Hereditary angioedema"
+        ],
+        [
+          "Given the requirement of lifelong management for HAE"
+        ],
+        [
+          "H"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644ec7fe57b1c7a315000082",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "The lac operon"
+        ],
+        [
+          "colilac operon"
+        ],
+        [
+          "colilac operon. Most studies of lac operon regulation have focused on a few closely related strains"
+        ],
+        [
+          "lac operon"
+        ],
+        [
+          "colilac"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63fa16d8201352f04a000002",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "colorectal cancer"
+        ],
+        [
+          "CRC"
+        ],
+        [
+          "CR"
+        ],
+        [
+          "colorectal"
+        ],
+        [
+          "cancer"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6451060c57b1c7a315000096",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "androgen receptor (AR) gene"
+        ],
+        [
+          "androgen receptor (AR) gene, and mutant AR is presumed to act in motoneurons to cause SBMA"
+        ],
+        [
+          "Kennedy"
+        ],
+        [
+          "Kennedy's disease"
+        ],
+        [
+          "androgen receptor"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "61f7c904882a024a10000027",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "asthma"
+        ],
+        [
+          "eosinophilic asthma"
+        ],
+        [
+          "Severe Asthma"
+        ],
+        [
+          "as"
+        ],
+        [
+          "Patients With Severe Asthma"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644ef78f57b1c7a315000084",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "chromatin fibres, and tethering of chromosomal regions to nuclear structures"
+        ],
+        [
+          "nucleoprotein complex"
+        ],
+        [
+          "DNA in eukaryotes is packed into chromatin"
+        ],
+        [
+          "Inside the cell nucleus, chromatin is folded into higher-order structures"
+        ],
+        [
+          "nucleosome"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644298cc57b1c7a315000062",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Facial-scapular-humeral myodystrophy Landouzy-Dejerine"
+        ],
+        [
+          "SMCHD1"
+        ],
+        [
+          "Landouzy-Dejerine"
+        ],
+        [
+          "FSHD2 is caused by the mutations in the protein regulating the methylation status of chromatin -"
+        ],
+        [
+          "FSHD2 is caused by the mutations in the protein regulating the methylation status of chromatin"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6442933f57b1c7a315000060",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Facial-scapular-humeral myodystrophy Landouzy-Dejerine"
+        ],
+        [
+          "partial deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4"
+        ],
+        [
+          "deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4"
+        ],
+        [
+          "In FSHD1, partial deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4"
+        ],
+        [
+          "FSHD1, partial deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4"
+        ]
+      ]
+    }
+  ]
+}

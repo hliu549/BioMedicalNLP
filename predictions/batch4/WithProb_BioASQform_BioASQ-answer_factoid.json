@@ -1,0 +1,2547 @@
+{
+  "questions": [
+    {
+      "type": "factoid",
+      "id": "63f57d9b33942b094c000004",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "tryptophan",
+          1.9998141988791285
+        ],
+        [
+          "try",
+          0.00014740811175844993
+        ],
+        [
+          "tryptophan absorption",
+          6.254229261155984e-06
+        ],
+        [
+          "tryptophan absorption was postulated as the underlying pathology",
+          6.1141194517797014e-06
+        ],
+        [
+          "a new metabolic disease which is deficient in the transport of tryptophan",
+          1.6961983119879204e-06
+        ],
+        [
+          "deficient in the transport of tryptophan",
+          7.333975018709903e-07
+        ],
+        [
+          "An intestinal defect of tryptophan",
+          6.013206647320839e-07
+        ],
+        [
+          "nephrocalcinosis. An intestinal defect of tryptophan",
+          5.104515263034505e-07
+        ],
+        [
+          "trypt",
+          3.716371765792971e-07
+        ],
+        [
+          "tryptop",
+          3.3589614112266584e-07
+        ],
+        [
+          "new metabolic disease which is deficient in the transport of tryptophan",
+          2.6176179633022245e-07
+        ],
+        [
+          "hypercalcemia, and nephrocalcinosis. An intestinal defect of tryptophan",
+          1.5790543909669703e-07
+        ],
+        [
+          "intestinal defect of tryptophan",
+          1.378264461474086e-07
+        ],
+        [
+          "which is deficient in the transport of tryptophan",
+          1.275521948611041e-07
+        ],
+        [
+          "metabolic disease which is deficient in the transport of tryptophan",
+          1.0462042266108946e-07
+        ],
+        [
+          "in a new metabolic disease which is deficient in the transport of tryptophan",
+          1.0398441002716296e-07
+        ],
+        [
+          "a new metabolic disease which is deficient in the transport of try",
+          2.0048735589237615e-10
+        ],
+        [
+          "deficient in the transport of try",
+          8.669530185232598e-11
+        ],
+        [
+          "An intestinal defect of try",
+          1.757550042448395e-11
+        ],
+        [
+          "nephrocalcinosis. An intestinal defect of try",
+          1.4919562129503676e-11
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6450ec0c57b1c7a31500008f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "frataxin",
+          0.5146545233398306
+        ],
+        [
+          "FXN gene, which leads to decreased levels of the frataxin",
+          0.4526309724261659
+        ],
+        [
+          "frataxin protein",
+          0.010866153189266915
+        ],
+        [
+          "FXN gene, which leads to decreased levels of the frataxin protein",
+          0.009556619560384075
+        ],
+        [
+          "FXN gene",
+          0.009122867342024669
+        ],
+        [
+          "a triplet guanine-adenine-adenine (GAA) repeat expansion",
+          0.0009002502607932552
+        ],
+        [
+          "FXN",
+          0.0006708603172859435
+        ],
+        [
+          "expansion in intron 1 of the FXN gene, which leads to decreased levels of the frataxin",
+          0.0001648050987913186
+        ],
+        [
+          "which leads to decreased levels of the frataxin",
+          0.00013728114470479088
+        ],
+        [
+          "the FXN gene, which leads to decreased levels of the frataxin",
+          0.00012831729505328326
+        ],
+        [
+          "guanine-adenine-adenine (GAA) repeat expansion",
+          5.9759562428360844e-05
+        ],
+        [
+          "FRDA",
+          5.9403931409329736e-05
+        ],
+        [
+          "a triplet guanine-adenine-adenine (GAA) repeat expansion in intron 1 of the FXN gene",
+          5.920435665199348e-05
+        ],
+        [
+          "decreased levels of the frataxin",
+          4.66497750363353e-05
+        ],
+        [
+          "leads to decreased levels of the frataxin",
+          4.384048391858559e-05
+        ],
+        [
+          "expansion",
+          4.1350186894339986e-05
+        ],
+        [
+          "the frataxin",
+          3.4268709037758077e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644ef46557b1c7a315000083",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Oncogenes",
+          0.9699247399346319
+        ],
+        [
+          "Oncogenes are gain-of-function mutations of normal regulatory genes or proto-oncogenes",
+          0.025184260054214102
+        ],
+        [
+          "Oncogenes are gain-of-function mutations of normal regulatory genes",
+          0.0027350771774995643
+        ],
+        [
+          "Oncogene",
+          0.0018463761029638983
+        ],
+        [
+          "On",
+          0.00022045257388718796
+        ],
+        [
+          "Proto-oncogenes are altered by point mutation, amplification or rearrangement",
+          3.384107740589707e-05
+        ],
+        [
+          "oncogenes are believed to be important contributors to human carcinogenesis",
+          3.1695526651186834e-05
+        ],
+        [
+          "Proto-oncogenes",
+          1.2558547955973175e-05
+        ],
+        [
+          "oncogenes are believed to be important contributors to human carcinogenesis. Proto-oncogenes",
+          6.519209534728589e-06
+        ],
+        [
+          "gain-of-function mutations of normal regulatory genes or proto-oncogenes",
+          2.0843298827395265e-06
+        ],
+        [
+          "Originally discovered in retroviruses initiating a variety of animal and avian cancers, oncogenes",
+          1.1225467680053559e-06
+        ],
+        [
+          "retroviruses initiating a variety of animal and avian cancers, oncogenes",
+          9.683794252660015e-07
+        ],
+        [
+          "normal regulatory genes or proto-oncogenes",
+          3.045391796211238e-07
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6432fdd857b1c7a315000020",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "autosomal dominant",
+          0.9979271306585129
+        ],
+        [
+          "Hereditary angioedema (HAE) is a rare autosomal dominant",
+          0.0012244211913676015
+        ],
+        [
+          "dominant",
+          0.0006736230681012329
+        ],
+        [
+          "auto",
+          0.00010134376335226051
+        ],
+        [
+          "autosomal dominant disorder caused by mutations of the SERPING1 or the Factor 12 genes",
+          5.309658347792696e-05
+        ],
+        [
+          "autosomal",
+          7.244770550599575e-06
+        ],
+        [
+          "rare autosomal dominant",
+          2.491074110812992e-06
+        ],
+        [
+          "autosomal dominant disorder caused by mutations of the SERPING1",
+          2.193593442268881e-06
+        ],
+        [
+          "a rare autosomal dominant",
+          1.839101672866338e-06
+        ],
+        [
+          "autoso",
+          1.4540106955153146e-06
+        ],
+        [
+          "autosomal dominant disorder caused by mutations of the SERPING1 or the Factor 12",
+          9.402613931942962e-07
+        ],
+        [
+          "(HAE) is a rare autosomal dominant",
+          8.346424764110486e-07
+        ],
+        [
+          "autosomal dominant disorder",
+          6.439826327815564e-07
+        ],
+        [
+          "angioedema (HAE) is a rare autosomal dominant",
+          5.867080526707719e-07
+        ],
+        [
+          "autosomal dominant disorder caused by mutations of",
+          1.5021100096280342e-07
+        ],
+        [
+          "Hereditary angioedema (HAE) is a rare auto",
+          1.2434520282013797e-07
+        ],
+        [
+          "autosomal dominant disorder caused",
+          1.0830761992058815e-07
+        ],
+        [
+          "dominant disorder caused by mutations of the SERPING1 or the Factor 12 genes",
+          3.328762874317927e-08
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6450ede757b1c7a315000090",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "first or second decade",
+          0.9742301295517647
+        ],
+        [
+          "second decade",
+          0.01398023589070641
+        ],
+        [
+          "the first or second decade",
+          0.0051630937250256
+        ],
+        [
+          "Friedreich's ataxia is classically considered a disease with onset in the first or second decade",
+          0.004429229715531754
+        ],
+        [
+          "decade",
+          0.001400287416179926
+        ],
+        [
+          "first",
+          0.00040455467271229543
+        ],
+        [
+          "in the first or second decade",
+          0.0002854652938650688
+        ],
+        [
+          "first or second",
+          6.285462813803061e-05
+        ],
+        [
+          "or second decade",
+          2.0578443253052127e-05
+        ],
+        [
+          "onset in the first or second decade",
+          8.451652599536147e-06
+        ],
+        [
+          "classically considered a disease with onset in the first or second decade",
+          5.4950917786038605e-06
+        ],
+        [
+          "a disease with onset in the first or second decade",
+          2.7118546018103054e-06
+        ],
+        [
+          "with onset in the first or second decade",
+          2.4012643505807663e-06
+        ],
+        [
+          "disease with onset in the first or second decade",
+          2.3667950847468907e-06
+        ],
+        [
+          "the first",
+          2.1440044079437947e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f03d58f36125a42600001f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "hip fracture",
+          1.0407410564840427
+        ],
+        [
+          "fracture",
+          1.0026574668855301
+        ],
+        [
+          "hip fractures",
+          0.9210564373371571
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation - WHITE 3: HEMI - An Abridged Protocol",
+          0.6347742937491361
+        ],
+        [
+          "Hemiarthroplasty",
+          0.08446778376942407
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation - WHITE 3: HEMI",
+          0.07896909184058824
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation",
+          0.06288056230801604
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre",
+          0.02960382340468121
+        ],
+        [
+          "displaced intracapsular hip fractures",
+          0.028181461701359996
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation -",
+          0.02486048402309141
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation - WHITE 3",
+          0.024791622510305252
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation - WHITE 3: HEMI -",
+          0.023841938578945916
+        ],
+        [
+          "Hemiarthroplasty Evaluation",
+          0.016635024705548968
+        ],
+        [
+          "Hemiarthroplasty Evaluation by Multicentre Investigation - WHITE",
+          0.014245628722418214
+        ],
+        [
+          "fractures",
+          0.0039898794248635645
+        ],
+        [
+          "displaced intracapsular hip fracture",
+          0.0013398274950729447
+        ],
+        [
+          "intracapsular hip fractures",
+          0.0011475982890484415
+        ],
+        [
+          "The World Hip Trauma Evaluation Study 3: Hemiarthroplasty",
+          0.001066541963073152
+        ],
+        [
+          "The World Hip Trauma Evaluation Study 3: Hemiarthroplasty Evaluation by Multicentre Investigation",
+          0.0007939684856205662
+        ],
+        [
+          "HEMI - An Abridged Protocol",
+          0.0007570434219072993
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644008a657b1c7a31500003f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Omaveloxolone",
+          0.9999075531690063
+        ],
+        [
+          "Omaveloxolo",
+          5.3580373024785064e-05
+        ],
+        [
+          "O",
+          3.5818340975704345e-05
+        ],
+        [
+          "Omaveloxolone (RTA 408) is an activator of Nrf2 and an inhibitor of NF\u03baB",
+          1.0764164425799147e-06
+        ],
+        [
+          "Omavelox",
+          9.140481577234004e-07
+        ],
+        [
+          "Omaveloxolone (RTA 408) is an activator of Nrf2",
+          5.34171093120416e-07
+        ],
+        [
+          "Oma",
+          1.4588266517524483e-07
+        ],
+        [
+          "Omaveloxolone (RTA 408)",
+          9.997485699076408e-08
+        ],
+        [
+          "Omavel",
+          4.6110716965384133e-08
+        ],
+        [
+          "Omaveloxolone (RTA 408) is an activator",
+          2.198922530183155e-08
+        ],
+        [
+          "Nrf2 and an inhibitor of NF\u03baB",
+          1.2481252453110793e-11
+        ],
+        [
+          "Nrf2",
+          6.193814961067069e-12
+        ],
+        [
+          "NF\u03baB, possessing antioxidative and anti-inflammatory activities in mitochondrial bioenergetics",
+          3.3502862736639273e-12
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644640de57b1c7a31500006b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "loss of the SMN1 gene in most cases or mutations in rare cases",
+          0.7717090851284137
+        ],
+        [
+          "Loss or deletion of survival motor neuron 1 gene (SMN1)",
+          0.6683371649785879
+        ],
+        [
+          "defects in the survival motor neuron 1 (SMN1) gene",
+          0.6149523531507624
+        ],
+        [
+          "mutations in SMN1 (encoding survival motor neuron protein (SMN))",
+          0.39514281878916824
+        ],
+        [
+          "Loss or deletion of survival motor neuron 1 gene",
+          0.31703232273255283
+        ],
+        [
+          "mutations",
+          0.24756300192704134
+        ],
+        [
+          "mutations in SMN1",
+          0.2139520871177035
+        ],
+        [
+          "defects in the survival motor neuron 1 (SMN1)",
+          0.11983755012570607
+        ],
+        [
+          "defects in the survival motor neuron 1",
+          0.08495303634438413
+        ],
+        [
+          "survival motor neuron 1 (SMN1) gene",
+          0.0704226428758722
+        ],
+        [
+          "loss of the SMN1 gene",
+          0.06506213695497827
+        ],
+        [
+          "SMN1 gene in most cases or mutations in rare cases",
+          0.05728379466138542
+        ],
+        [
+          "loss of the SMN1",
+          0.03896916593291296
+        ],
+        [
+          "survival motor neuron 1 (SMN1)",
+          0.013723464838182433
+        ],
+        [
+          "loss",
+          0.013049336553825622
+        ],
+        [
+          "defects",
+          0.011025095832434257
+        ],
+        [
+          "survival motor neuron 1",
+          0.009728586790584817
+        ],
+        [
+          "SMN1",
+          0.009669117202233906
+        ],
+        [
+          "SMN1) gene",
+          0.009054186831292166
+        ],
+        [
+          "mutations in",
+          0.00892289286943053
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64403a5857b1c7a31500004c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "phase III trial with two suprachoroidal injections of CLS-TA at 0 and 12 weeks",
+          0.8492575735402599
+        ],
+        [
+          "phase III trial with two suprachoroidal injections",
+          0.06082272099419118
+        ],
+        [
+          "phase III trial with two suprachoroidal injections of CLS-TA",
+          0.01920990581473652
+        ],
+        [
+          "phase III",
+          0.011445189101971414
+        ],
+        [
+          "suprachoroidal injections of CLS-TA at 0 and 12 weeks",
+          0.007171950844269921
+        ],
+        [
+          "phase",
+          0.005048108628026238
+        ],
+        [
+          "phase III trial with two",
+          0.0030369856186455847
+        ],
+        [
+          "phase III trial with two suprachoroidal",
+          0.002550556522601136
+        ],
+        [
+          "phase III trial with two suprachoroidal injection",
+          0.001891322854374502
+        ],
+        [
+          "phase III trial with two suprachoroidal injections of CLS-TA at",
+          0.0017248072905169602
+        ],
+        [
+          "two suprachoroidal injections of CLS-TA at 0 and 12 weeks",
+          0.0010894713475472207
+        ],
+        [
+          "suprachoroidal injections",
+          0.0005136457757646409
+        ],
+        [
+          "12 weeks",
+          0.0004120485272324537
+        ],
+        [
+          "CLS-TA at 0 and 12 weeks",
+          0.00040777130872535433
+        ],
+        [
+          "NCT02595398",
+          0.00023116972695779302
+        ],
+        [
+          "suprachoroidal injections of CLS-TA at 0 and 12 weeks with follow up lasting 24 weeks",
+          0.00017909350676443344
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64402bb057b1c7a315000043",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "phase I/II",
+          0.6726272815274289
+        ],
+        [
+          "Randomized",
+          0.5667570057735866
+        ],
+        [
+          "Randomized, clinical trial",
+          0.37596735182166
+        ],
+        [
+          "phase I/II double-blind, comparator-controlled trial",
+          0.25846917769281125
+        ],
+        [
+          "Random",
+          0.05214513726732886
+        ],
+        [
+          "phase",
+          0.018743518710994857
+        ],
+        [
+          "phase I/II double-blind",
+          0.012677913099949078
+        ],
+        [
+          "phase I/II double-blind, comparator-controlled",
+          0.01250274758237464
+        ],
+        [
+          "double-blind, comparator-controlled trial",
+          0.01141903177536606
+        ],
+        [
+          "phase I",
+          0.0062995627729835815
+        ],
+        [
+          "Randomized, clinical trial of RT001: Early signals of efficacy in Friedreich's ataxia",
+          0.003089167152123121
+        ],
+        [
+          "We conducted a phase I/II",
+          0.0018474335725945368
+        ],
+        [
+          "Randomized, clinical trial of RT001:",
+          0.0015556155914422597
+        ],
+        [
+          "phase I/II double-blind, comparator-controlled trial with 2 doses",
+          0.001543369432335073
+        ],
+        [
+          "phase I/II double",
+          0.0013016245345790966
+        ],
+        [
+          "We conducted a phase I/II double-blind, comparator-controlled trial",
+          0.0007099097070018718
+        ],
+        [
+          "double-blind",
+          0.0005601035056710151
+        ],
+        [
+          "double-blind, comparator-controlled",
+          0.0005523647856078122
+        ],
+        [
+          "phase I/II double-blind, comparator",
+          0.0004975507342203445
+        ],
+        [
+          "Randomized, clinical trial of RT001: Early signals of efficacy",
+          0.00013517671415770154
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63eef8d6f36125a42600000f",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "malaria",
+          1.9964050628912087
+        ],
+        [
+          "antimalarial",
+          0.685250474380027
+        ],
+        [
+          "antimalaria",
+          0.3055166955638445
+        ],
+        [
+          "L9LS, a potent and safe antimalaria",
+          0.008657295219720454
+        ],
+        [
+          "antimalarial monoclonal antibody, and its protective efficacy against controlled human malaria",
+          0.003530458907710066
+        ],
+        [
+          "a potent and safe antimalaria",
+          0.0002069460603994781
+        ],
+        [
+          "potent and safe antimalaria",
+          7.195162270261475e-05
+        ],
+        [
+          "L9LS, a potent and safe antimalarial",
+          5.271791669246411e-05
+        ],
+        [
+          "antimalarial monoclonal antibody",
+          4.2512971120684135e-05
+        ],
+        [
+          "antimalarial monoclonal antibody, demonstrated 88% protective efficacy against infection",
+          1.5950940969013223e-05
+        ],
+        [
+          "malaria infection in healthy adults who had never had malaria or received a vaccine for malaria",
+          9.82329093760841e-06
+        ],
+        [
+          "malaria after controlled infection, without evident safety concerns",
+          7.77493486073778e-06
+        ],
+        [
+          "L9LS administered intravenously or subcutaneously protected recipients against malaria",
+          6.555176703716629e-06
+        ],
+        [
+          "malaria after controlled infection",
+          3.721045132197072e-06
+        ],
+        [
+          "human malaria",
+          2.769423279862059e-06
+        ],
+        [
+          "monoclonal antibody, and its protective efficacy against controlled human malaria",
+          1.935509956847133e-06
+        ],
+        [
+          "antimal",
+          1.7373673477769396e-06
+        ],
+        [
+          "a potent and safe antimalarial",
+          1.2601817190110342e-06
+        ],
+        [
+          "antimalarial monoclonal antibody, demonstrated 88%",
+          8.556336680931922e-07
+        ],
+        [
+          "malaria infection",
+          7.354901978886475e-07
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64121f44201352f04a000037",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "proteolysis targeting chimeras",
+          0.9996601447141933
+        ],
+        [
+          "proteolysis targeting chimera",
+          0.9988042858157089
+        ],
+        [
+          "chimera",
+          0.0007778371234686138
+        ],
+        [
+          "The emerging technology proteolysis targeting chimera",
+          0.00033082165289966133
+        ],
+        [
+          "chimeras",
+          0.00014160122747307655
+        ],
+        [
+          "Design and synthesis of proteolysis targeting chimeras",
+          0.00012900742439704246
+        ],
+        [
+          "proteolysis targeting chimera (PROTAC) could be an alternative strategy to overcome these problems",
+          4.342891043512172e-05
+        ],
+        [
+          "proteolysis targeting chimeras (PROTACs) as an EGFR degrader based on CO-1686",
+          3.158413541548174e-05
+        ],
+        [
+          "proteolysis targeting ch",
+          2.99228353612269e-05
+        ],
+        [
+          "proteolysis targeting chimeras (PROTACs) as an EGFR degrader",
+          1.069198417463486e-05
+        ],
+        [
+          "proteolysis targeting chimeras (PROTACs)",
+          6.6255847944801705e-06
+        ],
+        [
+          "targeting chimeras",
+          6.3753944219832096e-06
+        ],
+        [
+          "emerging technology proteolysis targeting chimera",
+          6.2690745828824975e-06
+        ],
+        [
+          "pro",
+          4.993687859808309e-06
+        ],
+        [
+          "proteolysis targeting chimera (PROTAC)",
+          3.7654699005922474e-06
+        ],
+        [
+          "proteolysis targeting chime",
+          2.9592929726789402e-06
+        ],
+        [
+          "targeting chimera",
+          2.193930839830322e-06
+        ],
+        [
+          "proteolysis targeting",
+          1.26323148696478e-06
+        ],
+        [
+          "of proteolysis targeting chimeras",
+          1.170005591560961e-06
+        ],
+        [
+          "technology proteolysis targeting chimera",
+          7.268734665419563e-07
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6451029f57b1c7a315000094",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "1:40,000",
+          0.8967703439918314
+        ],
+        [
+          "1:40,000 - 1:77,000 liveborn infants a year",
+          0.07112379467206092
+        ],
+        [
+          "1:40,000 - 1:77,000 liveborn infants",
+          0.016777832387009344
+        ],
+        [
+          "1:40,000 - 1:77,000",
+          0.010162011799081452
+        ],
+        [
+          "1",
+          0.0027802665864537063
+        ],
+        [
+          "1:",
+          0.0008906275595825725
+        ],
+        [
+          "40,000",
+          0.0007745567216750277
+        ],
+        [
+          "50% of cases in this age group. Its estimated incidence is 1:40,000",
+          0.00030941833488689214
+        ],
+        [
+          "1:77,000 liveborn infants a year",
+          0.00010762414773571733
+        ],
+        [
+          "more than 50% of cases in this age group. Its estimated incidence is 1:40,000",
+          8.638261505974357e-05
+        ],
+        [
+          "Its estimated incidence is 1:40,000",
+          7.387236831306412e-05
+        ],
+        [
+          "40,000 - 1:77,000 liveborn infants a year",
+          6.143090435959055e-05
+        ],
+        [
+          "1:77,000 liveborn infants",
+          2.538812671385653e-05
+        ],
+        [
+          "1:77,000",
+          1.5377102194830826e-05
+        ],
+        [
+          "40,000 - 1:77,000 liveborn infants",
+          1.4491316464199934e-05
+        ],
+        [
+          "40,000 - 1:77,000",
+          8.777112888995331e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6432f5f257b1c7a31500001c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "BTK",
+          1.8885297512623733
+        ],
+        [
+          "BTK inhibitor",
+          0.07632128435818422
+        ],
+        [
+          "BTK inhibitor, has been approved for treating adults with mantle cell lymphoma",
+          0.011832331909087751
+        ],
+        [
+          "BT",
+          0.01106736278345384
+        ],
+        [
+          "BTK inhibitor, was designed to block BTK more specifically than ibrutinib",
+          0.0005693430160642129
+        ],
+        [
+          "BTK inhibitor, was designed to block BTK",
+          9.522100615595494e-05
+        ],
+        [
+          "CD20-based therapy. B",
+          2.3438049911687184e-05
+        ],
+        [
+          "zanubrutinib, a next-generation BTK",
+          2.1996234836806238e-05
+        ],
+        [
+          "In the United States, zanubrutinib, a next-generation BTK",
+          2.1543806669345698e-05
+        ],
+        [
+          "next-generation BTK",
+          1.9980780068251088e-05
+        ],
+        [
+          "BTK inhibitor, was designed to block BTK more specifically",
+          1.9339823724135673e-05
+        ],
+        [
+          "CD20",
+          1.806283514779935e-05
+        ],
+        [
+          "a next-generation BTK",
+          1.531243794801792e-05
+        ],
+        [
+          "To reduce these side effects, zanubrutinib, a next-generation BTK",
+          1.3430394940843604e-05
+        ],
+        [
+          "B",
+          8.689493180143516e-06
+        ],
+        [
+          "CD20-based therapy",
+          2.975902405063547e-06
+        ],
+        [
+          "In the United States, zanubrutinib, a next-generation BTK inhibitor",
+          1.5909307531447486e-06
+        ],
+        [
+          "zanubrutinib, a next-generation BTK inhibitor",
+          1.5271048598294971e-06
+        ],
+        [
+          "next-generation BTK inhibitor",
+          1.4238336946488288e-06
+        ],
+        [
+          "anti-CD20-based therapy. B",
+          1.313242876468983e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440420857b1c7a315000050",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "cabotegravir ER injectable suspension",
+          0.9324445519976335
+        ],
+        [
+          "HIV-1 pre-exposure prophylaxis",
+          0.80348071174679
+        ],
+        [
+          "Cabotegravir Extended-Release Injectable Suspension",
+          0.8000773871097517
+        ],
+        [
+          "PrEP",
+          0.6111548449572197
+        ],
+        [
+          "Cabotegravir ER injectable suspension is indicated in the USA for PrEP",
+          0.3795211790108948
+        ],
+        [
+          "Cabotegravir Extended-Release Injectable Suspension: A Review in HIV-1 Pre-Exposure Prophylaxis",
+          0.1289613359008379
+        ],
+        [
+          "approved for HIV-1 pre-exposure prophylaxis",
+          0.07060141416397435
+        ],
+        [
+          "cabotegravir",
+          0.046562501655978056
+        ],
+        [
+          "pre-exposure prophylaxis",
+          0.03805103151224193
+        ],
+        [
+          "for HIV-1 pre-exposure prophylaxis",
+          0.03688501129033008
+        ],
+        [
+          "Cabotegravir Extended-Release Injectable Suspension: A Review",
+          0.017072271220764334
+        ],
+        [
+          "HIV-1 pre-exposure prophylaxis (PrEP)",
+          0.017015836220704444
+        ],
+        [
+          "injectable suspension",
+          0.011701476929569321
+        ],
+        [
+          "Cabotegravir Extended-Release Injectable Suspension:",
+          0.010596219710963882
+        ],
+        [
+          "intramuscular administration, cabotegravir ER injectable suspension",
+          0.0074974430842699325
+        ],
+        [
+          "suspension",
+          0.006779481401425504
+        ],
+        [
+          "the first long-acting injectable option to be approved for HIV-1 pre-exposure prophylaxis",
+          0.006452475299220216
+        ],
+        [
+          "first long-acting injectable option to be approved for HIV-1 pre-exposure prophylaxis",
+          0.00632086530809306
+        ],
+        [
+          "Cabotegravir Extended-Release",
+          0.005569588802873384
+        ],
+        [
+          "Cabotegravir extended-release (ER) injectable suspension",
+          0.004760739047813024
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63eef4f5f36125a42600000b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "multiple sclerosis",
+          4.0069750918447244
+        ],
+        [
+          "MS",
+          0.9999240337638172
+        ],
+        [
+          "Relapsing Multiple Sclerosis",
+          0.9916853509713597
+        ],
+        [
+          "CD20",
+          0.5521682607924706
+        ],
+        [
+          "CD20 therapy about to be approved",
+          0.38771752148077193
+        ],
+        [
+          "pathogenic cell populations",
+          0.19650418599343744
+        ],
+        [
+          "CD52 monoclonal antibody alemtuzumab and the anti-CD20",
+          0.1357267590533775
+        ],
+        [
+          "CD52",
+          0.0838234672781575
+        ],
+        [
+          "CD20 therapy",
+          0.06991488602320392
+        ],
+        [
+          "anti-CD20",
+          0.05034707776251449
+        ],
+        [
+          "ublituximab work via eliminating selected pathogenic cell populations",
+          0.0474619026609469
+        ],
+        [
+          "alemtuzumab and the anti-CD20",
+          0.04581527489090142
+        ],
+        [
+          "anti-CD52 monoclonal antibody alemtuzumab and the anti-CD20",
+          0.04424480059935291
+        ],
+        [
+          "On the other hand, the anti-CD52 monoclonal antibody alemtuzumab and the anti-CD20",
+          0.043252610129755
+        ],
+        [
+          "ofatumumab, and ublituximab work via eliminating selected pathogenic cell populations",
+          0.03763055535537458
+        ],
+        [
+          "ocrelizumab, ofatumumab, and ublituximab work via eliminating selected pathogenic cell populations",
+          0.03708421065948506
+        ],
+        [
+          "eliminating selected pathogenic cell populations",
+          0.0364422406745602
+        ],
+        [
+          "CD52 monoclonal antibody alemtuzumab",
+          0.03322150328934765
+        ],
+        [
+          "CD20 monoclonal antibodies rituximab, ocrelizumab, ofatumumab",
+          0.031957522737603106
+        ],
+        [
+          "anti-CD52",
+          0.0273251392808246
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "640c842f201352f04a000025",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "liver palms",
+          0.9712451091853908
+        ],
+        [
+          "liver palms\"",
+          0.016520749417340403
+        ],
+        [
+          "\"liver palms",
+          0.011048910146920034
+        ],
+        [
+          "\"liver palms\"",
+          0.00018794048396812382
+        ],
+        [
+          "palms",
+          8.619437718365335e-05
+        ],
+        [
+          "liver",
+          2.7020663269677332e-05
+        ],
+        [
+          "palms\"",
+          1.4661548286500028e-06
+        ],
+        [
+          "\"liver",
+          3.073877827063122e-07
+        ],
+        [
+          "\"",
+          8.931656799602199e-09
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64468b0757b1c7a315000070",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "PABPN1 gene",
+          0.674763483369831
+        ],
+        [
+          "PABPN1",
+          0.28395177390338777
+        ],
+        [
+          "poly[A]) binding protein nuclear 1 gene (11-18 repeats in OPMD instead of the normal 10 repeats)",
+          0.2613692630235592
+        ],
+        [
+          "Oculopharyngeal muscular dystrophy (OPMD) is a late-onset intractable myopathy",
+          0.25168524028193257
+        ],
+        [
+          "abnormal expansion of the alanine-encoding (GCN)n trinucleotide repeat",
+          0.1368463867377301
+        ],
+        [
+          "Oculopharyngeal muscular dystrophy",
+          0.10839679994741751
+        ],
+        [
+          "polyadenosine (poly[A]) binding protein nuclear 1 gene",
+          0.035929141885024024
+        ],
+        [
+          "abnormal expansion of the alanine",
+          0.020169381285180303
+        ],
+        [
+          "abnormal expansion of the alanine-encoding (GCN)n trinucleotide repeat in the exon 1",
+          0.017112300354062703
+        ],
+        [
+          "polyadenosine (poly[A]) binding protein nuclear 1",
+          0.0138335813074623
+        ],
+        [
+          "A common cause of OPMD is the short expansion of a GCG or GCA trinucleotide repeat",
+          0.013643581581155315
+        ],
+        [
+          "the abnormal expansion of the alanine-encoding (GCN)n trinucleotide repeat",
+          0.012297636267480655
+        ],
+        [
+          "It is caused by the abnormal expansion of the alanine-encoding (GCN)n trinucleotide repeat",
+          0.010935741537745267
+        ],
+        [
+          "abnormal expansion of",
+          0.009023708167914766
+        ],
+        [
+          "the short expansion of a GCG or GCA trinucleotide repeat in PABPN1 gene",
+          0.0065509515803016775
+        ],
+        [
+          "expansion of the alanine-encoding (GCN)n trinucleotide repeat",
+          0.006502208348680465
+        ],
+        [
+          "alanine-encoding (GCN)n trinucleotide repeat",
+          0.004971220477852373
+        ],
+        [
+          "poly[A]",
+          0.004469820877349952
+        ],
+        [
+          "short expansion of a GCG or GCA trinucleotide repeat in PABPN1 gene",
+          0.003851439994414827
+        ],
+        [
+          "PABPN",
+          0.0032820033693870187
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f0494cf36125a426000028",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "respiratory syncytial virus",
+          3.520372616640294
+        ],
+        [
+          "RSV",
+          1.9924664435029509
+        ],
+        [
+          "Respiratory Syncytial Virus Inhibitor",
+          0.1671212697974952
+        ],
+        [
+          "Respiratory Syncytial Virus Inhibitor, in a Human Virus Challenge",
+          0.15164861678128858
+        ],
+        [
+          "Human Virus Challenge",
+          0.03912574889738286
+        ],
+        [
+          "EDP-938, a Respiratory Syncytial Virus",
+          0.023256540770812788
+        ],
+        [
+          "respiratory",
+          0.01683492687899726
+        ],
+        [
+          "a Respiratory Syncytial Virus",
+          0.01385070906551927
+        ],
+        [
+          "RS",
+          0.007511712931659416
+        ],
+        [
+          "respiratory syncytial",
+          0.006820336689853074
+        ],
+        [
+          "respiratory syncyt",
+          0.006297671257235887
+        ],
+        [
+          "respiratory sync",
+          0.005895136086275204
+        ],
+        [
+          "EDP-938, a Respiratory Syncytial Virus Inhibitor",
+          0.005265457815112837
+        ],
+        [
+          "EDP-938, a Respiratory Syncytial Virus Inhibitor, in a Human Virus Challenge",
+          0.004999239641873386
+        ],
+        [
+          "antiviral with inhibitory activity against the nucleoprotein of the respiratory syncytial virus",
+          0.004897082609007809
+        ],
+        [
+          "respiratory s",
+          0.0042743666103964295
+        ],
+        [
+          "Respiratory Syncytial Vir",
+          0.003925945577566644
+        ],
+        [
+          "Respiratory Syncytial Virus Inhibitor, in a Human Virus",
+          0.0038240083318177905
+        ],
+        [
+          "a Respiratory Syncytial Virus Inhibitor",
+          0.0031359059377145636
+        ],
+        [
+          "a Respiratory Syncytial Virus Inhibitor, in a Human Virus Challenge",
+          0.0029773565428655563
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "640ddbe9201352f04a000027",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "durvalumab",
+          2.40059329262728
+        ],
+        [
+          "IMFINZI",
+          0.22392469480556348
+        ],
+        [
+          "durvalumab (Imfinzi\u2122; AstraZeneca)",
+          0.0010337908824228537
+        ],
+        [
+          "IMFINZI\u00ae",
+          0.0003827759929121526
+        ],
+        [
+          "du",
+          0.00023601000456071315
+        ],
+        [
+          "durvalumab (Imfinzi\u00ae)",
+          6.99419147999965e-05
+        ],
+        [
+          "durvalumab (Imfinzi\u2122; AstraZeneca) is a fully human monoclonal antibody",
+          5.812614722176965e-05
+        ],
+        [
+          "IMFINZ",
+          5.210839057290495e-05
+        ],
+        [
+          "IMFINZI\u00ae, Astra-Zeneca",
+          4.605729635948322e-05
+        ],
+        [
+          "(IMFINZI\u00ae",
+          1.148125318937709e-05
+        ],
+        [
+          "durvalumab (IMFINZI\u00ae",
+          5.90411487331909e-06
+        ],
+        [
+          "I",
+          1.8305088747715878e-06
+        ],
+        [
+          "IMF",
+          4.522446889961663e-07
+        ],
+        [
+          "Imfinzi\u2122; AstraZeneca",
+          1.0902729757020235e-07
+        ],
+        [
+          "durvalum",
+          8.873658486987157e-08
+        ],
+        [
+          "blocks programmed cell death ligand-1 binding to its receptors (PD-1 and CD80)",
+          4.7389986239343603e-08
+        ],
+        [
+          "programmed cell death ligand-1 binding to its receptors (PD-1 and CD80)",
+          4.684453219312773e-08
+        ],
+        [
+          "durva",
+          4.513923274816604e-08
+        ],
+        [
+          "CD80)",
+          3.616974843411702e-08
+        ],
+        [
+          "AstraZeneca",
+          3.283552401047464e-08
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644e81fa57b1c7a315000079",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "tumor suppressor genes",
+          0.9993756388375067
+        ],
+        [
+          "tumour suppressor proteins",
+          0.9935976132455097
+        ],
+        [
+          "Tumor-suppressor genes (TSGs) or antioncogenes",
+          0.29660487048570716
+        ],
+        [
+          "Tumor-suppressor genes",
+          0.20254722834206287
+        ],
+        [
+          "antioncogenes",
+          0.17690946723398254
+        ],
+        [
+          "Tumor-suppressor genes (TSGs)",
+          0.043393776937009736
+        ],
+        [
+          "TSGs",
+          0.03825829981377506
+        ],
+        [
+          "loss of function of tumour suppressor proteins",
+          0.004622975625686501
+        ],
+        [
+          "Tumor-suppressor genes (TSGs) or antioncogene",
+          0.004544543933960622
+        ],
+        [
+          "antioncogene",
+          0.002710585449462951
+        ],
+        [
+          "(TSGs) or antioncogenes",
+          0.0009149157471612304
+        ],
+        [
+          "tumour suppressor proteins, drives oncogenic proliferation",
+          0.0007783721141459494
+        ],
+        [
+          "growth signalling networks, coupled to loss of function of tumour suppressor proteins",
+          0.000504566934651014
+        ],
+        [
+          "We now recognize that tumor suppressor genes",
+          0.00027220445676302374
+        ],
+        [
+          "tumor suppressor",
+          0.00020892286297912986
+        ],
+        [
+          "proteins",
+          6.859801506519426e-05
+        ],
+        [
+          "genes",
+          6.334832716187481e-05
+        ],
+        [
+          "tumor suppressor genes regulate diverse cellular activities",
+          5.9232707893924046e-05
+        ],
+        [
+          "growth signalling networks",
+          4.243922674370911e-05
+        ],
+        [
+          "genes (TSGs) or antioncogenes",
+          4.083503800628793e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415c7fb690f196b51000016",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "September 4, 2014",
+          0.9917779023746011
+        ],
+        [
+          "2014",
+          0.006088896297781015
+        ],
+        [
+          "On September 4, 2014",
+          0.00200638049701535
+        ],
+        [
+          "September 4",
+          9.431368729349768e-05
+        ],
+        [
+          "4, 2014",
+          2.0160984356849663e-05
+        ],
+        [
+          "September",
+          1.0822184339372984e-05
+        ],
+        [
+          ", 2014",
+          4.977718991972519e-07
+        ],
+        [
+          "September 4, 2014, the FDA approved pembrolizumab",
+          4.133125377974677e-07
+        ],
+        [
+          "On September 4",
+          1.9079790176228897e-07
+        ],
+        [
+          "On September",
+          2.1893429508395724e-08
+        ],
+        [
+          "2014, the FDA approved pembrolizumab",
+          2.5374805943911153e-09
+        ],
+        [
+          "4",
+          1.6200865660451374e-09
+        ],
+        [
+          "On",
+          1.477221364515945e-09
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64468e0d57b1c7a315000071",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "1 in 80,000 individuals worldwide",
+          0.9434937830439122
+        ],
+        [
+          "1 in 80,000",
+          0.021935351835679486
+        ],
+        [
+          "1 in 80,000 individuals",
+          0.01807242559288472
+        ],
+        [
+          "approximately 1 in 80,000 individuals worldwide",
+          0.004312416815748298
+        ],
+        [
+          "1 in 80,000 individuals worldwide. However, it can affect as much as 1:600",
+          0.0035166912107959334
+        ],
+        [
+          "1",
+          0.0018907412812003478
+        ],
+        [
+          "late-onset rare muscle disease affecting approximately 1 in 80,000 individuals worldwide",
+          0.00035569640638069647
+        ],
+        [
+          "1 in 80,000 individuals worldwide. However, it can affect as much as 1:600 individuals",
+          0.00026641903506592385
+        ],
+        [
+          "1 in",
+          0.00018384254101533947
+        ],
+        [
+          "worldwide",
+          0.00015242164864285606
+        ],
+        [
+          "80,000 individuals worldwide",
+          0.00014761903749247187
+        ],
+        [
+          "approximately 1 in 80,000",
+          0.00010082203638835756
+        ],
+        [
+          "approximately 1 in 80,000 individuals",
+          8.30667665785022e-05
+        ],
+        [
+          "1:600 individuals in some populations due to a strong founder effect",
+          6.938784991470916e-05
+        ],
+        [
+          "1:600",
+          4.650091886199711e-05
+        ],
+        [
+          "1 in 80",
+          2.5825936274206508e-05
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f04716f36125a426000025",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "angioedema",
+          1.9968252034055567
+        ],
+        [
+          "HAE",
+          0.9995066078134717
+        ],
+        [
+          "Hereditary angioedema",
+          0.0031426040301799235
+        ],
+        [
+          "Given the requirement of lifelong management for HAE",
+          0.000145065496513213
+        ],
+        [
+          "H",
+          0.00012951015744925906
+        ],
+        [
+          "HA",
+          1.8849808030763626e-05
+        ],
+        [
+          "prophylaxis. Given the requirement of lifelong management for HAE",
+          1.5075561021477295e-05
+        ],
+        [
+          "have shown promise as long-term prophylaxis. Given the requirement of lifelong management for HAE",
+          1.3466276571853533e-05
+        ],
+        [
+          "an",
+          1.1919064829155569e-05
+        ],
+        [
+          "the requirement of lifelong management for HAE",
+          7.515410522590421e-06
+        ],
+        [
+          "as long-term prophylaxis. Given the requirement of lifelong management for HAE",
+          6.84370756510722e-06
+        ],
+        [
+          "shown promise as long-term prophylaxis. Given the requirement of lifelong management for HAE",
+          6.3114024402379805e-06
+        ],
+        [
+          "Among patients with hereditary angioedema",
+          5.904469434057566e-06
+        ],
+        [
+          "CONCLUSIONS: Among patients with hereditary angioedema",
+          4.794924474579633e-06
+        ],
+        [
+          "BACKGROUND: Hereditary angioedema",
+          4.72525442038579e-06
+        ],
+        [
+          "HAE, further research is needed to determine how best to individualize optimal treatments",
+          3.375516126950134e-06
+        ],
+        [
+          "HAE, further research is needed",
+          3.3600034211968026e-06
+        ],
+        [
+          "patients with hereditary angioedema",
+          5.768186053519159e-07
+        ],
+        [
+          "angioedema, donidalorsen treatment resulted in a significantly lower rate of angioedema",
+          8.135982039094842e-08
+        ],
+        [
+          "angioedema, donidalorsen treatment resulted in a significantly lower rate of angioedema attacks",
+          5.298336330882364e-08
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644ec7fe57b1c7a315000082",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "The lac operon",
+          0.6280655559066745
+        ],
+        [
+          "colilac operon",
+          0.453864259540419
+        ],
+        [
+          "colilac operon. Most studies of lac operon regulation have focused on a few closely related strains",
+          0.4526841468202178
+        ],
+        [
+          "lac operon",
+          0.09505886780693865
+        ],
+        [
+          "colilac",
+          0.06398952363656615
+        ],
+        [
+          "The lac",
+          0.010708470377200244
+        ],
+        [
+          "Escherichia colilac operon",
+          0.010000579801905841
+        ],
+        [
+          "colilac operon. Most studies of lac operon",
+          0.0070977048433548155
+        ],
+        [
+          "The lac operon is one of the best known gene regulatory circuits",
+          0.006183898874793251
+        ],
+        [
+          "The",
+          0.002669685637655743
+        ],
+        [
+          "The lac operon is one of the best known gene regulatory",
+          0.0020392402179353255
+        ],
+        [
+          "lac",
+          0.0016207465294467661
+        ],
+        [
+          "Escherichia colilac",
+          0.001029761262401283
+        ],
+        [
+          "lac operon is one of the best known gene regulatory circuits",
+          0.0009359443773697341
+        ],
+        [
+          "the Escherichia colilac operon",
+          0.0006795022539457208
+        ],
+        [
+          "lac operon regulation have focused on a few closely related strains",
+          0.0003851958940097671
+        ],
+        [
+          "Most studies of lac operon regulation have focused on a few closely related strains",
+          0.00030958459389856586
+        ],
+        [
+          "lac operon is one of the best known gene regulatory",
+          0.0003086427276265268
+        ],
+        [
+          "lactose to control the Escherichia colilac operon",
+          0.0002206275027566953
+        ],
+        [
+          "cis- and trans-acting regulators",
+          0.00021234229592833505
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63fa16d8201352f04a000002",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "colorectal cancer",
+          0.9980108801337778
+        ],
+        [
+          "CRC",
+          0.997102427559721
+        ],
+        [
+          "CR",
+          0.002888885547120751
+        ],
+        [
+          "colorectal",
+          0.001636259065259171
+        ],
+        [
+          "cancer",
+          0.00021580095702301952
+        ],
+        [
+          "color",
+          0.0001337852241528979
+        ],
+        [
+          "CRC metastasis",
+          3.5712103724182705e-06
+        ],
+        [
+          "we found that changes in the pattern of microexon splicing were associated with CRC",
+          3.3813317714901452e-06
+        ],
+        [
+          "RBFOX2 and PTBP1 is associated with metastasis in colorectal cancer",
+          9.522243869177409e-07
+        ],
+        [
+          "colorec",
+          7.186132091092108e-07
+        ],
+        [
+          "PTBP1 is associated with metastasis in colorectal cancer",
+          2.8759951457576847e-07
+        ],
+        [
+          "metastasis in colorectal cancer",
+          2.4614697397888373e-07
+        ],
+        [
+          "Finally, we found that changes in the pattern of microexon splicing were associated with CRC",
+          2.0650765646988026e-07
+        ],
+        [
+          "in colorectal cancer",
+          1.614845598172933e-07
+        ],
+        [
+          "CRC metastasis. Our data thus suggest that altered expression of RBFOX2 and PTBP1",
+          1.534647033957799e-07
+        ],
+        [
+          "CRC metastasis. Our data thus suggest that altered expression of RBFOX2",
+          1.3051654233206093e-07
+        ],
+        [
+          "associated with metastasis in colorectal cancer",
+          9.805627461802886e-08
+        ],
+        [
+          "changes in the pattern of microexon splicing were associated with CRC",
+          9.603598639115168e-08
+        ],
+        [
+          "CRC metastasis. Our data",
+          9.340704450210343e-08
+        ],
+        [
+          "CRC metastasis. Our data thus suggest",
+          8.315816390931989e-08
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6451060c57b1c7a315000096",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "androgen receptor (AR) gene",
+          1.2153286652218456
+        ],
+        [
+          "androgen receptor (AR) gene, and mutant AR is presumed to act in motoneurons to cause SBMA",
+          0.317742492060714
+        ],
+        [
+          "Kennedy",
+          0.29340711781396495
+        ],
+        [
+          "Kennedy's disease",
+          0.26771365043156015
+        ],
+        [
+          "androgen receptor",
+          0.17960511102188567
+        ],
+        [
+          "and",
+          0.0958382715414523
+        ],
+        [
+          "androgen receptor (AR)",
+          0.06635081743081578
+        ],
+        [
+          "androgen receptor encoding gene (AR)",
+          0.04654552047049031
+        ],
+        [
+          "a CAG trinucleotide repeat expansion",
+          0.04399426631188174
+        ],
+        [
+          "androgen",
+          0.014505225647462636
+        ],
+        [
+          "androgen receptor (AR) gene, and mutant AR is presumed to act in motoneurons",
+          0.007823782632940248
+        ],
+        [
+          "Kennedy's disease is nearly exclusively caused by mutations in the androgen receptor encoding gene",
+          0.007070540251947533
+        ],
+        [
+          "Kennedy's disease is nearly exclusively caused by mutations in the androgen",
+          0.0024810931690631335
+        ],
+        [
+          "a CAG trinucleotide repeat expansion in the androgen receptor (AR) gene",
+          0.0022517749390086627
+        ],
+        [
+          "Kennedy's disease is nearly exclusively caused by mutations",
+          0.001210581495266285
+        ],
+        [
+          "Kennedy's disease is nearly exclusively caused by mutations in the androgen receptor",
+          0.001044550816506684
+        ],
+        [
+          "androgen receptor encoding gene",
+          0.0008773143529554327
+        ],
+        [
+          "androgen receptor (AR) gene, and",
+          0.0008486810051392151
+        ],
+        [
+          "Kennedy's disease is nearly exclusively caused by mutations in the and",
+          0.000783560321593151
+        ],
+        [
+          "mutations in the androgen receptor encoding gene (AR)",
+          0.0003933549473134924
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "61f7c904882a024a10000027",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "asthma",
+          8.00933669711072
+        ],
+        [
+          "eosinophilic asthma",
+          0.9622673910051831
+        ],
+        [
+          "Severe Asthma",
+          0.025820188889046802
+        ],
+        [
+          "as",
+          0.002253170855900601
+        ],
+        [
+          "Patients With Severe Asthma",
+          0.00010797219699939274
+        ],
+        [
+          "asth",
+          3.723271048410302e-05
+        ],
+        [
+          "asthma that is effective also in nontype 2 asthma",
+          3.6231685708497944e-05
+        ],
+        [
+          "With Severe Asthma",
+          2.1031398954520484e-05
+        ],
+        [
+          "Tezepelumab to Guide Phase 3 Dose Selection for Patients With Severe Asthma",
+          1.8518091512034984e-05
+        ],
+        [
+          "severe, uncontrolled asthma",
+          1.55424832828395e-05
+        ],
+        [
+          "In severe, uncontrolled asthma",
+          1.3297160365775145e-05
+        ],
+        [
+          "Phase 3 Dose Selection for Patients With Severe Asthma",
+          8.25925276315213e-06
+        ],
+        [
+          "thymic stromal lymphopoietin, an epithelial cytokine involved in asthma",
+          7.462186282637711e-06
+        ],
+        [
+          "e",
+          5.864118398399413e-06
+        ],
+        [
+          "Tezepelumab in adults and adolescents with severe, uncontrolled asthma",
+          5.139788972221907e-06
+        ],
+        [
+          "Dose Selection for Patients With Severe Asthma",
+          4.8004636470405195e-06
+        ],
+        [
+          "TSLP monoclonal antibody, is a promising alternative treatment for asthma",
+          4.465591220736582e-06
+        ],
+        [
+          "asthma pathogenesis",
+          3.837781416090608e-06
+        ],
+        [
+          "asthma, tezepelumab reduced exacerbations and improved asthma control at 1 y",
+          3.825975984694522e-06
+        ],
+        [
+          "Severe As",
+          2.7454801011284898e-06
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644ef78f57b1c7a315000084",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "chromatin fibres, and tethering of chromosomal regions to nuclear structures",
+          0.18829474805001234
+        ],
+        [
+          "nucleoprotein complex",
+          0.15933880986982327
+        ],
+        [
+          "DNA in eukaryotes is packed into chromatin",
+          0.15882798890553262
+        ],
+        [
+          "Inside the cell nucleus, chromatin is folded into higher-order structures",
+          0.11904198077287996
+        ],
+        [
+          "nucleosome",
+          0.10740666300472092
+        ],
+        [
+          "nucleosome consisting of DNA wrapped around a histone octamer",
+          0.08417320428011765
+        ],
+        [
+          "chromatin fibres",
+          0.07956388333333225
+        ],
+        [
+          "Inside the cell nucleus, chromatin is folded into higher-order structures through various mechanisms",
+          0.04850309471157523
+        ],
+        [
+          "higher-order structures",
+          0.046291621436966836
+        ],
+        [
+          "nuclear structures",
+          0.03782163181890685
+        ],
+        [
+          "chromatin is folded into higher-order structures",
+          0.03546451118808071
+        ],
+        [
+          "Inside the cell nucleus",
+          0.03263287239438381
+        ],
+        [
+          "looping of chromatin fibres, and tethering of chromosomal regions to nuclear structures",
+          0.032139725456796796
+        ],
+        [
+          "the nucleosome",
+          0.024889327607088896
+        ],
+        [
+          "chromatin is the nucleosome consisting of DNA wrapped around a histone octamer",
+          0.022499637755231516
+        ],
+        [
+          "chromatin",
+          0.02027691696442392
+        ],
+        [
+          "higher-order structures through various mechanisms",
+          0.018861303250601726
+        ],
+        [
+          "chromatin is folded into higher-order structures through various mechanisms",
+          0.014449848145059415
+        ],
+        [
+          "the nucleosome consisting of DNA wrapped around a histone octamer",
+          0.012362174038869843
+        ],
+        [
+          "histone octamer",
+          0.012320039639867095
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644298cc57b1c7a315000062",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Facial-scapular-humeral myodystrophy Landouzy-Dejerine",
+          0.9531427907474816
+        ],
+        [
+          "SMCHD1",
+          0.42720253919055046
+        ],
+        [
+          "Landouzy-Dejerine",
+          0.03942775374010723
+        ],
+        [
+          "FSHD2 is caused by the mutations in the protein regulating the methylation status of chromatin -",
+          0.036018010069854695
+        ],
+        [
+          "FSHD2 is caused by the mutations in the protein regulating the methylation status of chromatin",
+          0.018114767161561456
+        ],
+        [
+          "mutations in the protein regulating the methylation status of chromatin - SMCHD1",
+          0.014021804310656204
+        ],
+        [
+          "FSHD2 is caused by the mutations",
+          0.003154604793338243
+        ],
+        [
+          "the mutations in the protein regulating the methylation status of chromatin - SMCHD1",
+          0.003022525391567827
+        ],
+        [
+          "FSHD2",
+          0.001962437047285658
+        ],
+        [
+          "the protein regulating the methylation status of chromatin - SMCHD1",
+          0.0016395084331709514
+        ],
+        [
+          "ectopic expression of the transcription factor DUX4 in skeletal muscle",
+          0.0012976921565110665
+        ],
+        [
+          "autosomal dominant",
+          0.0012599493255337584
+        ],
+        [
+          "FSHD2 is caused by the mutations in",
+          0.0012085923941571137
+        ],
+        [
+          "mutations in the protein regulating the methylation status of chromatin -",
+          0.001032923864033464
+        ],
+        [
+          "SMCHD",
+          0.0009868409290220476
+        ],
+        [
+          "FSHD2 is caused by the mutations in the protein regulating the methylation status",
+          0.0008955392374530213
+        ],
+        [
+          "Facial-scapular-humeral myodystrophy Landouzy-Dejerine (FSHD)",
+          0.0008471408720550033
+        ],
+        [
+          "Facial-scapular-humeral myodystrophy",
+          0.000840376842580323
+        ],
+        [
+          "by the mutations in the protein regulating the methylation status of chromatin - SMCHD1",
+          0.0006707484467284657
+        ],
+        [
+          "Landouzy-Dejerine (FSHD) is an autosomal dominant",
+          0.0006362306879524071
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6442933f57b1c7a315000060",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Facial-scapular-humeral myodystrophy Landouzy-Dejerine",
+          0.967689970952753
+        ],
+        [
+          "partial deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4",
+          0.3945411492274824
+        ],
+        [
+          "deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4",
+          0.19144286352497072
+        ],
+        [
+          "In FSHD1, partial deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4",
+          0.04714072781354328
+        ],
+        [
+          "FSHD1, partial deletion of the D4Z4 repeats on the 4th chromosome affects the expression of DUX4",
+          0.040857191465242956
+        ],
+        [
+          "different genetic causes but are phenotypically indistinguishable",
+          0.03356893704858471
+        ],
+        [
+          "D4Z4 repeats on the 4th chromosome affects the expression of DUX4",
+          0.030096654536199037
+        ],
+        [
+          "partial deletion of the D4Z4 repeats",
+          0.028229328036561314
+        ],
+        [
+          "Landouzy-Dejerine",
+          0.027641770224469245
+        ],
+        [
+          "which have different genetic causes but are phenotypically indistinguishable",
+          0.027206649091622345
+        ],
+        [
+          "DUX4",
+          0.02607670634341077
+        ],
+        [
+          "have different genetic causes but are phenotypically indistinguishable",
+          0.025041540744147134
+        ],
+        [
+          "partial deletion of the D4Z4",
+          0.02501879203835098
+        ],
+        [
+          "genetic causes but are phenotypically indistinguishable",
+          0.023642156756338475
+        ],
+        [
+          "partial deletion of the D4Z4 repeats on the 4th chromosome",
+          0.01967833446508967
+        ],
+        [
+          "FSHD2 (MIM: 158901)",
+          0.017336961825311078
+        ],
+        [
+          "partial deletion",
+          0.016219917210629098
+        ],
+        [
+          "deletion of the D4Z4 repeats",
+          0.013697692636843447
+        ],
+        [
+          "deletion of the D4Z4",
+          0.01213984700743103
+        ],
+        [
+          "FSHD1 (MIM:158900) and FSHD2 (MIM: 158901)",
+          0.010532360327388827
+        ]
+      ]
+    }
+  ]
+}
