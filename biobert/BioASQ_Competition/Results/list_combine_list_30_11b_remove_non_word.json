@@ -1,0 +1,316 @@
+{
+    "questions": [
+        {
+            "id": "643d41e757b1c7a315000037",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "latuda"
+                ],
+                [
+                    "schizophrenia"
+                ]
+            ]
+        },
+        {
+            "id": "64179139690f196b5100002f",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "mlpa"
+                ],
+                [
+                    "ml"
+                ],
+                [
+                    "mlpa, and subsequently, if negative, samples were sequenced to detect point mutations"
+                ],
+                [
+                    "pa"
+                ],
+                [
+                    "mlpa, and subsequently, if negative, samples were sequenced"
+                ]
+            ]
+        },
+        {
+            "id": "644289c457b1c7a31500005e",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "hearing loss"
+                ],
+                [
+                    "foot dorsiflexor, hip girdle weakness, and hearing loss"
+                ],
+                [
+                    "hearing"
+                ],
+                [
+                    "periscapular, foot dorsiflexor, hip girdle weakness, and hearing loss"
+                ],
+                [
+                    "hip girdle weakness, and hearing loss"
+                ]
+            ]
+        },
+        {
+            "id": "641791ca690f196b51000031",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "dystrophinopathies"
+                ],
+                [
+                    "dystrophinopathies, limb-girdle muscular dystrophies, emery-dreifuss muscular dystrophy"
+                ],
+                [
+                    "limb-girdle muscular dystrophies, emery-dreifuss muscular dystrophy"
+                ],
+                [
+                    "dystrophinopathies, limb-girdle muscular dystrophies"
+                ],
+                [
+                    "emery-dreifuss muscular dystrophy"
+                ]
+            ]
+        },
+        {
+            "id": "644291fa57b1c7a31500005f",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "1"
+                ],
+                [
+                    "dm type 1"
+                ],
+                [
+                    "type 1"
+                ],
+                [
+                    "type 2 (dm2) is considered less severe than dm type 1"
+                ],
+                [
+                    "dm type 2 (dm2) is considered less severe than dm type 1"
+                ]
+            ]
+        },
+        {
+            "id": "63f741a633942b094c000009",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "nivolumab"
+                ]
+            ]
+        },
+        {
+            "id": "64163568690f196b5100001b",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "exons 3-9"
+                ],
+                [
+                    "exons 3"
+                ],
+                [
+                    "exons"
+                ],
+                [
+                    "exons 3-9 encompassing a mutational hot spot"
+                ],
+                [
+                    "exons 3-"
+                ]
+            ]
+        },
+        {
+            "id": "6442869857b1c7a31500005d",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "southern blot"
+                ],
+                [
+                    "southern blot based dna test"
+                ],
+                [
+                    "southern"
+                ],
+                [
+                    "southern blot based dna"
+                ],
+                [
+                    "simple pcr probe synthesis and labelling procedure, thus facilitating and accelerating the standard southern blot"
+                ]
+            ]
+        },
+        {
+            "id": "641794e7690f196b51000036",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "autism"
+                ],
+                [
+                    "epilepsy, autism"
+                ],
+                [
+                    "autism, and attention deficit disorder"
+                ],
+                [
+                    "low iq scores, epilepsy, autism"
+                ],
+                [
+                    "autism, and attention deficit"
+                ]
+            ]
+        },
+        {
+            "id": "63ee5c78f36125a426000001",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "interleukin-4"
+                ],
+                [
+                    "interleukin"
+                ],
+                []
+            ]
+        },
+        {
+            "id": "64316f8e57b1c7a315000016",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "mesenchymal"
+                ],
+                [
+                    "cells"
+                ]
+            ]
+        },
+        {
+            "id": "641c5201690f196b51000040",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "inflammatory polyneuropathies"
+                ],
+                [
+                    "inflammatory polyneuropathies."
+                ],
+                [
+                    "inflammatory polyneuropath"
+                ],
+                [
+                    "polyneuropathies"
+                ],
+                [
+                    "ies"
+                ]
+            ]
+        },
+        {
+            "id": "643c183b57b1c7a31500002c",
+            "type": "list",
+            "exact_answer": []
+        },
+        {
+            "id": "64402f6f57b1c7a315000045",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "1.8 or 9.0 g/day"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1.8 or 9.0"
+                ],
+                [
+                    "1.8 or 9.0 g/day), or a matching dose of nondeuterated ethyl linoleate"
+                ],
+                [
+                    "1.8 or 9.0 g"
+                ]
+            ]
+        },
+        {
+            "id": "6440f85c57b1c7a315000051",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "premature"
+                ],
+                [
+                    "pipp"
+                ],
+                [
+                    "neonatal"
+                ],
+                [
+                    "nips"
+                ]
+            ]
+        },
+        {
+            "id": "6402ba49201352f04a000004",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "atezolizumab"
+                ],
+                [
+                    "atezolizumab (840 mg, days 1 and 15 of each 28-day cycle) plus oral cobimetinib"
+                ],
+                [
+                    "ate"
+                ],
+                [
+                    "atezoliz"
+                ],
+                [
+                    "atezo"
+                ]
+            ]
+        },
+        {
+            "id": "641791b9690f196b51000030",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "dystroglycanopathies"
+                ],
+                [
+                    "merosin-deficient"
+                ]
+            ]
+        },
+        {
+            "id": "643d3e6157b1c7a315000034",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "b-type natriuretic peptide"
+                ],
+                [
+                    "b-type natriuretic peptide /bnp"
+                ],
+                [
+                    "natriuretic peptide"
+                ],
+                [
+                    "peptide"
+                ],
+                [
+                    "b"
+                ]
+            ]
+        }
+    ]
+}

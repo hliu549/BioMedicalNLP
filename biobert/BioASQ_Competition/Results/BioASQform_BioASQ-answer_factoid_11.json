@@ -1,0 +1,628 @@
+{
+  "questions": [
+    {
+      "type": "factoid",
+      "id": "64403ab057b1c7a31500004d",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "two"
+        ],
+        [
+          "two suprachoroidal injections of CLS-TA at 0 and 12 weeks"
+        ],
+        [
+          "two suprachoroidal injections"
+        ],
+        [
+          "two suprachoroidal"
+        ],
+        [
+          "two suprachoroidal injections of CLS-TA at 0 and 12 weeks with follow up lasting 24 weeks"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6411b678201352f04a000036",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "acquired"
+        ],
+        [
+          "autosomal dominant"
+        ],
+        [
+          "autosomal dominant mode of inheritance"
+        ],
+        [
+          "Congenital"
+        ],
+        [
+          "acquired prosopagnosia"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "643bc8f957b1c7a31500002b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Promoters"
+        ],
+        [
+          "Promoters mark the start of every transcript and are an important class of regulatory elements"
+        ],
+        [
+          "A promoter is a short region of DNA (100-1,000 bp)"
+        ],
+        [
+          "directly upstream or at the 5' end of the transcription initiation site"
+        ],
+        [
+          "5' end of the transcription initiation site"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64403be357b1c7a31500004e",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "24 weeks"
+        ],
+        [
+          "24"
+        ],
+        [
+          "0 and 12 weeks with follow up lasting 24 weeks"
+        ],
+        [
+          "12 weeks with follow up lasting 24 weeks"
+        ],
+        [
+          "weeks"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440396957b1c7a31500004b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Suprachoroidal"
+        ],
+        [
+          "Suprachoroidal delivery"
+        ],
+        [
+          "Suprachoroidal (SC)"
+        ],
+        [
+          "Microinjector"
+        ],
+        [
+          "suprachoroidal space (SCS\u00ae)"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6431708a57b1c7a315000017",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "cardiomyocytes"
+        ],
+        [
+          "miR-145"
+        ],
+        [
+          "T1AM"
+        ],
+        [
+          "T1AM on cardiomyocytes"
+        ],
+        [
+          "145"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "640f8641201352f04a00002c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "eyes"
+        ],
+        [
+          "subscleral"
+        ],
+        [
+          "P"
+        ],
+        [
+          "trabeculotomy"
+        ],
+        [
+          "3 Schlemm's Canal Microinvasive Glaucoma Surgery Devices"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "644009c557b1c7a315000041",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "autosomal recessive"
+        ],
+        [
+          "recessive"
+        ],
+        [
+          "autosomal recess"
+        ],
+        [
+          "auto"
+        ],
+        [
+          "Friedreich's Ataxia (FRDA) is an autosomal recessive"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64371a4257b1c7a315000029",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "operons"
+        ],
+        [
+          "Clustering of functionally related genes in operons"
+        ],
+        [
+          "polycistronic messages (operons)"
+        ],
+        [
+          "polycistronic messages"
+        ],
+        [
+          "Clustering of functionally related genes in operon"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440377c57b1c7a315000049",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "triamcinolone acetonide"
+        ],
+        [
+          "triamcinolone"
+        ],
+        [
+          "acetonide"
+        ],
+        [
+          "CLS-TA, a triamcinolone acetonide"
+        ],
+        [
+          "CLS-TA, a triamcinolone"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6441057657b1c7a315000052",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "FLACC"
+        ],
+        [
+          "FLACC and COMFORT"
+        ],
+        [
+          "Wong-Baker Faces Pain Rating Scale"
+        ],
+        [
+          "FLACC-r"
+        ],
+        [
+          "Wong-Baker Faces"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64257c9c690f196b5100004b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "early detection of drug's hepatotoxicity in clinical drug development"
+        ],
+        [
+          "phenotype-based drug-induced liver injury causality assessment tool"
+        ],
+        [
+          "drug-specific liver injury phenotypes"
+        ],
+        [
+          "DILI causality assessment tool"
+        ],
+        [
+          "liver injury phenotypes"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6429e85e57b1c7a315000009",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "riboswitches"
+        ],
+        [
+          "riboswitches are typically located in noncoding regions of mRNA"
+        ],
+        [
+          "Metabolite-sensing mRNAs, or \"riboswitches"
+        ],
+        [
+          "Riboswitch"
+        ],
+        [
+          "riboswitches might be representatives of an ancient form of genetic control"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6440393157b1c7a31500004a",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "2021"
+        ],
+        [
+          "202"
+        ],
+        [
+          "the 2021"
+        ],
+        [
+          "2021 FDA approval of CLS-TA"
+        ],
+        [
+          "after the 2021"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415b3b4690f196b51000009",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "yellow light"
+        ],
+        [
+          "yellow"
+        ],
+        [
+          "light"
+        ],
+        [
+          "millisecond-timescale pulses of yellow light"
+        ],
+        [
+          "millisecond-timescale pulses of yellow"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6429fad757b1c7a31500000e",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "TATA box"
+        ],
+        [
+          "TATA\" box"
+        ],
+        [
+          "TATAWAWR"
+        ],
+        [
+          "TFIID"
+        ],
+        [
+          "TATA-like element and their promoters are generally AT-rich;"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64402e7757b1c7a315000044",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "9"
+        ],
+        [
+          "Nineteen"
+        ],
+        [
+          "Nineteen patients enrolled in the trial, and 18"
+        ],
+        [
+          "9 subjects"
+        ],
+        [
+          "Nine"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64425ce357b1c7a315000059",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "1 in 20000"
+        ],
+        [
+          "1:8000"
+        ],
+        [
+          "8000"
+        ],
+        [
+          "20000"
+        ],
+        [
+          "1:8000 incidence"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f581e933942b094c000007",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "spinal muscular atrophy"
+        ],
+        [
+          "SMA"
+        ],
+        [
+          "motor neurons. Major advances and developments in SMA"
+        ],
+        [
+          "Major advances and developments in SMA"
+        ],
+        [
+          "Type 1 or 2 spinal muscular atrophy"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6431f7de57b1c7a31500001b",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "frataxin"
+        ],
+        [
+          "frataxin (FXN) gene"
+        ],
+        [
+          "f"
+        ],
+        [
+          "frataxin in whole blood from healthy controls and homozygous FRDA"
+        ],
+        [
+          "frataxin (FXN)"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "643f9eeb57b1c7a31500003c",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "19.7"
+        ],
+        [
+          "1:5,000 live male births"
+        ],
+        [
+          "1:5,000"
+        ],
+        [
+          "The cumulative incidence of disease was 19.7"
+        ],
+        [
+          "19.7 per 100,000 male live births"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415c252690f196b51000011",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "bladder cancer"
+        ],
+        [
+          "Cancer"
+        ],
+        [
+          "Non-muscle Invasive Bladder Cancer"
+        ],
+        [
+          "Bacillus Calmette-Guerin for the Treatment of Non-muscle Invasive Bladder Cancer"
+        ],
+        [
+          "Treatment of Non-muscle Invasive Bladder Cancer"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63eeed0af36125a426000007",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Multiple Myeloma"
+        ],
+        [
+          "myeloma"
+        ],
+        [
+          "Multiple"
+        ],
+        [
+          "Teclistamab in Relapsed or Refractory Multiple Myeloma"
+        ],
+        [
+          "Relapsed or Refractory Multiple Myeloma"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "63f03ea0f36125a426000020",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Clostridioides difficile"
+        ],
+        [
+          "C. difficile"
+        ],
+        [
+          "rCDI"
+        ],
+        [
+          "SER-109, an investigational oral microbiome therapeutic, was superior to placebo in reducing rCDI"
+        ],
+        [
+          "reducing rCDI"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "64179113690f196b5100002e",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "Xp21"
+        ],
+        [
+          "Xp21 chromosome locus"
+        ],
+        [
+          "Xp21)"
+        ],
+        [
+          "X"
+        ],
+        [
+          "X chromosome (Xp21)"
+        ]
+      ]
+    },
+    {
+      "type": "factoid",
+      "id": "6415c9e9690f196b51000018",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "exact_answer": [
+        [
+          "mTNBC"
+        ],
+        [
+          "m"
+        ],
+        [
+          "PD-L1-positive mTNBC"
+        ],
+        [
+          "positive mTNBC"
+        ],
+        [
+          "mTNBC, as the FDA recently approved atezolizumab (Tecentriq) and pembrolizumab"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+    "questions": [
+        {
+            "id": "643d41e757b1c7a315000037",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "schizophrenia"
+                ],
+                [
+                    "syndrome"
+                ],
+                [
+                    "aggressive"
+                ]
+            ]
+        },
+        {
+            "id": "64179139690f196b5100002f",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "ck"
+                ],
+                [
+                    "creatine kinase"
+                ],
+                [
+                    "mlpa"
+                ],
+                [
+                    "multiplex ligation-dependent probe amplification"
+                ]
+            ]
+        },
+        {
+            "id": "644289c457b1c7a31500005e",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "periscapular"
+                ],
+                [
+                    "hip girdle weakness"
+                ],
+                [
+                    "hearing loss"
+                ],
+                [
+                    "foot dorsiflexor"
+                ]
+            ]
+        },
+        {
+            "id": "641791ca690f196b51000031",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "emery-dreifuss muscular dystrophy"
+                ]
+            ]
+        },
+        {
+            "id": "644291fa57b1c7a31500005f",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "1"
+                ],
+                [
+                    "dm type 1"
+                ],
+                [
+                    "type 1"
+                ],
+                [
+                    "type 2 (dm2) is considered less severe than dm type 1"
+                ],
+                [
+                    "dm type 2 (dm2) is considered less severe than dm type 1"
+                ]
+            ]
+        },
+        {
+            "id": "63f741a633942b094c000009",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "bristol"
+                ],
+                [
+                    "relatlimab"
+                ],
+                [
+                    "nivolumab"
+                ],
+                [
+                    "relatimab"
+                ]
+            ]
+        },
+        {
+            "id": "64163568690f196b5100001b",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "exons 3-9"
+                ],
+                [
+                    "exons 3"
+                ],
+                [
+                    "exons"
+                ],
+                [
+                    "exons 3-9 encompassing a mutational hot spot"
+                ],
+                [
+                    "exons 3-"
+                ]
+            ]
+        },
+        {
+            "id": "6442869857b1c7a31500005d",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "dna"
+                ],
+                [
+                    "dna test"
+                ]
+            ]
+        },
+        {
+            "id": "641794e7690f196b51000036",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "anxiety"
+                ],
+                [
+                    "obsessive-compulsive disorder"
+                ],
+                [
+                    "attention deficit disorder"
+                ],
+                [
+                    "anxiety disorders"
+                ],
+                [
+                    "autism spectrum disorders"
+                ],
+                [
+                    "autism"
+                ],
+                [
+                    "epilepsy"
+                ],
+                [
+                    "depression"
+                ]
+            ]
+        },
+        {
+            "id": "63ee5c78f36125a426000001",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "interleukin-4"
+                ]
+            ]
+        },
+        {
+            "id": "64316f8e57b1c7a315000016",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "chondrocytes"
+                ],
+                [
+                    "osteocytes"
+                ],
+                [
+                    "cord mesenchymal stem cells"
+                ],
+                [
+                    "mesenchymal stem cells"
+                ]
+            ]
+        },
+        {
+            "id": "641c5201690f196b51000040",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "multiple sclerosis"
+                ],
+                [
+                    "ris"
+                ],
+                [
+                    "chronic kidney disease"
+                ],
+                [
+                    "myotonic dystrophy type 1"
+                ],
+                [
+                    "chronic kidney"
+                ],
+                [
+                    "lung cancer"
+                ],
+                [
+                    "amyotrophic lateral sclerosis"
+                ],
+                [
+                    "frontotemporal dementia"
+                ]
+            ]
+        },
+        {
+            "id": "643c183b57b1c7a31500002c",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "chip-seq"
+                ],
+                [
+                    "faire-seq"
+                ],
+                [
+                    "transposase"
+                ],
+                [
+                    "atac-seq"
+                ],
+                [
+                    "mnase-seq"
+                ],
+                [
+                    "damid"
+                ],
+                [
+                    "dnase-seq"
+                ]
+            ]
+        },
+        {
+            "id": "64402f6f57b1c7a315000045",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "1.8 or 9.0 g/day"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1.8 or 9.0"
+                ],
+                [
+                    "1.8 or 9.0 g/day), or a matching dose of nondeuterated ethyl linoleate"
+                ],
+                [
+                    "1.8 or 9.0 g"
+                ]
+            ]
+        },
+        {
+            "id": "6440f85c57b1c7a315000051",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "neonatal infant pain scale (nips"
+                ],
+                [
+                    "nips"
+                ],
+                [
+                    "douleur aigu\u00eb du nouveau-n\u00e9 (dan) scale, neonatal infant pain scale (nips"
+                ],
+                [
+                    "neonatal facial coding system"
+                ],
+                [
+                    "neonatal facial coding system (nfcs"
+                ]
+            ]
+        },
+        {
+            "id": "6402ba49201352f04a000004",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "cobimetinib"
+                ],
+                [
+                    "vemurafenib"
+                ],
+                [
+                    "atezolizumab"
+                ]
+            ]
+        },
+        {
+            "id": "641791b9690f196b51000030",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "-related rigid"
+                ],
+                [
+                    "merosin-deficient"
+                ],
+                [
+                    "collagen vi-deficient"
+                ]
+            ]
+        },
+        {
+            "id": "643d3e6157b1c7a315000034",
+            "type": "list",
+            "exact_answer": [
+                [
+                    "proanp"
+                ],
+                [
+                    "nt-probnp"
+                ],
+                [
+                    "b-type natriuretic peptide"
+                ],
+                [
+                    "bnp"
+                ],
+                [
+                    "natriuretic peptide"
+                ],
+                [
+                    "brain natriuretic peptide"
+                ],
+                [
+                    "pro-"
+                ]
+            ]
+        }
+    ]
+}
