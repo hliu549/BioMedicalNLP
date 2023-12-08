@@ -1,70 +1,190 @@
-<p align="center">
-<img style="vertical-align:middle" src="https://raw.githubusercontent.com/Adapter-Hub/adapter-transformers/master/adapter_docs/logo.png" />
-</p>
-<h1 align="center">
-<span>adapter-transformers</span>
-</h1>
+## Mixture-of-Partitions: Infusing Large Biomedical Knowledge Graphs into BERT
+> 
+Code of paper [Mixture-of-Partitions: Infusing Large Biomedical Knowledge Graphs into BERT](https://arxiv.org/abs/2109.04810)[EMNLP2021]
 
-<h3 align="center">
-A friendly fork of HuggingFace's <i>Transformers</i>, adding Adapters to PyTorch language models
-</h3>
+------
+## Introduction
+Infusing factual knowledge into pre-trained models is fundamental for many knowledge-intensive tasks. In this paper, we proposed Mixture-of-Partitions (MoP), an infusion approach that can handle a very large knowledge graph (KG) by partitioning it into smaller sub-graphs and infusing their specific knowledge into various BERT models using lightweight adapters. To leverage the overall factual knowledge for a target task, these sub-graph adapters are further fine-tuned along with the underlying BERT through a mixture layer. We evaluate our MoP with three biomedical BERTs (SciBERT, BioBERT, PubmedBERT) on six downstream tasks (inc. NLI, QA, Classification), and the results show that our MoP consistently enhances the underlying BERTs in task performance, and achieves new SOTA performances on five evaluated datasets.
 
-![Tests](https://github.com/Adapter-Hub/adapter-transformers/workflows/Tests/badge.svg)
-[![GitHub](https://img.shields.io/github/license/adapter-hub/adapter-transformers.svg?color=blue)](https://github.com/adapter-hub/adapter-transformers/blob/master/LICENSE)
-![PyPI](https://img.shields.io/pypi/v/adapter-transformers)
+ ![front-page-graph](/framework_double_col.jpg)
 
-`adapter-transformers` is an extension of [HuggingFace's Transformers](https://github.com/huggingface/transformers) library, integrating adapters into state-of-the-art language models by incorporating **[AdapterHub](https://adapterhub.ml)**, a central repository for pre-trained adapter modules.
 
-This library can be used as a drop-in replacement for HuggingFace Transformers and regularly synchronizes new upstream changes.
+------
 
-## Quick tour
+## File structure
 
+- `data_dir`: downstream task dataset used in the experiments.
+- `kg_dir`: folder to save the knowledge graphs as well as the partitioned files.
+- `model_dir`: folder to save pre-trained models.
+- `src`: source code.
+  - `adapter-transformers`: adapter-transformers v1.1.1 forked from [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers), it has been modified for using different mixture approaches.
+  - `evaluate_tasks`: codes for the downstream tasks.
+  -  `knowledge_infusion`: knowledge infusion main codes.
+
+kg_dir and model_dir can be downloaded at this [link](https://www.dropbox.com/s/s8zb8o5agpgx1e9/data_model.zip?dl=0).
+## Installation
+The code is tested with python 3.8.5, torch 1.7.0 and huggingface transformers 3.5.0. Please view requirements.txt for more details.
+Our models use a modified [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers). To use this package, please go to the `./src/adapter-transformers` folder of this project, and run `pip install .` to install the `adapter-transformers` package
 Reminder: Use image with CUDA version 10.2 and compatible instances(g4dn on AWS or regular GCE with donwgraded CUDA). If using AWS, you might need to set up conda manually. Code is provided in setup_conda.sh.
 
-_adapter-transformers_ currently supports **Python 3.6+** and **PyTorch 1.1.0+**.
-After [installing PyTorch](https://pytorch.org/get-started/locally/), you can install _adapter-transformers_ from PyPI ...
+## Datasets
+- The BioAsq7b, PubMedQA, HoC datasets can be downloaded from [BLURB](https://microsoft.github.io/BLURB/submit.html)
+- The MedQA dataset can be downloaded from: https://github.com/jind11/MedQA
+- The BioAsq8b datasets can be downloaded from: http://bioasq.org/
 
+## Train knowledge fusion and downstream tasks
+
+### Train Knowledge Infusion
+To train knowledge infusion, you can run the following command in the `src/knowledge_infusion/entity_prediction` folder.
+<details>
+<summary>Click to expand!</summary>
+  
+```shell
+MODEL="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext"
+TOKENIZER="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext"
+INPUT_DIR="kg_dir"
+OUTPUT_DIR="model_dir"
+DATASET_NAME="S20Rel"
+ADAPTER_NAMES="entity_predict"
+PARTITION=20
+
+python run_pretrain.py \
+--model $MODEL \
+--tokenizer $TOKENIZER \
+--input_dir $INPUT_DIR \
+--data_name $DATASET_NAME \
+--output_dir $OUTPUT_DIR \
+--n_partition $PARTITION \
+--use_adapter \
+--non_sequential \
+--adapter_names  $ADAPTER_NAMES\
+--amp \
+--cuda \
+--num_workers 32 \
+--max_seq_length 64 \
+--batch_size 256 \
+--lr 1e-04 \
+--epochs 1 \
+--save_step 2000
 ```
-pip install -U adapter-transformers
+ </details>
+ 
+### Train Downstream Tasks
+To evaluate the model on a downstream task, you can go to the task folder and see the *.sh file for an example. For example, the following command is used to train a model on pubmedqa dataset over different shuffle_rates.
+<details>
+<summary>Click to expand!</summary>
+  
+```shell
+MODEL="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext"
+TOKENIZER="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext"
+ADAPTER_NAMES="entity_predict"
+PARTITION=20
+python run_pretrain.py \
+ --model $MODEL \
+ --tokenizer $TOKENIZER \
+ --input_dir $INPUT_DIR \
+ --output_dir $OUTPUT_DIR \
+ --n_partition $PARTITION \
+ --use_adapter \
+ --non_sequential \
+ --adapter_names  $ADAPTER_NAMES\
+ --amp \
+ --cuda \
+ --num_workers 32 \
+ --max_seq_length 64 \
+ --batch_size 256 \
+ --bi_direction \
+ --lr 1e-04 \
+ --epochs 2 \
+ --save_step 2000
+done
 ```
+</details>
+ 
+## Hyper-parameters
 
-... or from source by cloning the repository:
-
-```
-git clone https://github.com/adapter-hub/adapter-transformers.git
-cd adapter-transformers
-pip install .
-```
-
-## Getting Started
-
-HuggingFace's great documentation on getting started with _Transformers_ can be found [here](https://huggingface.co/transformers/index.html). _adapter-transformers_ is fully compatible with _Transformers_.
-
-To get started with adapters, refer to these locations:
-
-- **[Colab notebook tutorials](https://github.com/Adapter-Hub/adapter-transformers/tree/master/notebooks)**, a series notebooks providing an introduction to all the main concepts of (adapter-)transformers and AdapterHub
-- **https://docs.adapterhub.ml**, our documentation on training and using adapters with _adapter-transformers_
-- **https://adapterhub.ml** to explore available pre-trained adapter modules and share your own adapters
-- **[Examples folder](https://github.com/Adapter-Hub/adapter-transformers/tree/master/examples)** of this repository containing HuggingFace's example training scripts, many adapted for training adapters
+### Pre-train
+<details>
+<summary>Click to expand!</summary>
+  
+|Parameter|Value|
+|------|------|
+|lr|1e-04|
+|epoch|1-2|
+|batch_size|256|
+|max_seq_length|64|
+  </details>
 
 
-## Citation
+### BioASQ7b,BioASQ8b,PubMedQA
+<details>
+<summary>Click to expand!</summary>
+  
+|Parameter|Value|
+|------|------|
+|lr|1e-05|
+|epoch|25|
+|patient|5|
+|batch_size|8|
+|max_seq_length|512|
+|repeat_run|10|
+</details>
 
-If you find this library useful, please cite our paper [AdapterHub: A Framework for Adapting Transformers](https://arxiv.org/abs/2007.07779):
+### MedQA
+<details>
+<summary>Click to expand!</summary>
+  
+|Parameter|Value|
+|------|------|
+|lr|1e-05,2e-05|
+|epoch|25|
+|patient|5|
+|batch_size|12|
+|max_seq_length|512|
+|repeat_run|3|
+|temperature|1|
+</details>
 
-```
-@inproceedings{pfeiffer2020AdapterHub,
-    title={AdapterHub: A Framework for Adapting Transformers},
-    author={Pfeiffer, Jonas and
-            R{\"u}ckl{\'e}, Andreas and
-            Poth, Clifton and
-            Kamath, Aishwarya and
-            Vuli{\'c}, Ivan and
-            Ruder, Sebastian and
-            Cho, Kyunghyun and
-            Gurevych, Iryna},
-    booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations},
-    pages={46--54},
-    year={2020}
+### MedNLI
+<details>
+<summary>Click to expand!</summary>
+  
+|Parameter|Value|
+|------|------|
+|lr|1e-05|
+|epoch|25|
+|patient|5|
+|batch_size|16|
+|max_seq_length|256|
+|repeat_run|3|
+|temperature|-15,-10,1|
+</details>
+
+### HoC
+<details>
+<summary>Click to expand!</summary>
+  
+|Parameter|Value|
+|------|------|
+|lr|1e-05,3e-05|
+|epoch|25|
+|patient|5|
+|batch_size|16,32|
+|max_seq_length|256|
+|repeat_run|5|
+|temperature|1|
+</details>
+
+### If you find our paper and resources useful, please kindly cite our paper:
+```latex
+@inproceedings{meng2021mixture,
+  title={Mixture-of-Partitions: Infusing Large Biomedical Knowledge Graphs into BERT},
+  author={Meng, Zaiqiao and Liu, Fangyu and Clark, Thomas and Shareghi, Ehsan and Collier, Nigel},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages={4672--4681},
+  year={2021}
 }
 ```
+
+### Contact
+If you have any questions, feel free to contact me via (zm324@cam.ac.uk).
