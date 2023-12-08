@@ -1,6 +1,6 @@
 # Model Evaluation and Improvement in Large-scale BioMedical Question Answering
 
-Team Members: Haiying Liu, Jiayin Zheng, Sanjana Moudgalya, Mian Li
+Team Members: Haiying Liu, Jiayin Zheng, Sanjana Moudgalya, Mian Li <br>
 Advisor: Prof. Eric Nyberg
 
 All code for different parts of the project are present in separate branches of this repository.
