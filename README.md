@@ -19,6 +19,8 @@ This library can be used as a drop-in replacement for HuggingFace Transformers a
 
 ## Quick tour
 
+Reminder: Use image with CUDA version 10.2 and compatible instances(g4dn on AWS or regular GCE with donwgraded CUDA)
+
 _adapter-transformers_ currently supports **Python 3.6+** and **PyTorch 1.1.0+**.
 After [installing PyTorch](https://pytorch.org/get-started/locally/), you can install _adapter-transformers_ from PyPI ...
 
