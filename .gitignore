@@ -1,0 +1,8 @@
+**.ipynb_checkpoints/
+*.pyc
+*.log
+wandb/
+model_dir/
+kg_dir/
+__pycache__/
+temp/
