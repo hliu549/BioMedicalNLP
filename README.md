@@ -7,3 +7,5 @@ All code for different parts of the project are present in separate branches of 
 - BioBERT: code using the https://github.com/dmis-lab/biobert-pytorch repository to make submissions for Yes/No and Factoid questions to the BioASQ Competition
 - QAGNN: code using the https://github.com/michiyasunaga/qagnn/tree/main repository to adapt for BioASQ data from MedQA dataset
 - SeqTagQA: code using the https://github.com/dmis-lab/SeqTagQA repository to generate the answewr for list type question 
+- LinkBERT: code using the https://github.com/hliu549/BioMedicalNLP/tree/LinkBERT repository to make submissions for Yes/No and Factoid questions to the BioASQ Competition
+- External KG infusion: code using the https://github.com/hliu549/BioMedicalNLP/tree/kg_infusionrepository to infuse external KG and train downstream QA test
